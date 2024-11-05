@@ -1,0 +1,538 @@
+
+# section: scenario_Olive_sketches_her_first_portrait
+Name: Olive_sketches_her_first_portrait
+Rule: progress <= 15
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! sketches her first portrait ...
+SuccessText: beautifully, capturing her subject's essence.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: poorly, missing key features.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_drawing_eyes
+Name: Olive_practices_drawing_eyes
+Rule: progress <= 15
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! practices drawing eyes ...
+SuccessText: and they appear lifelike and expressive.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but they look uneven and lifeless.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_drawing_noses
+Name: Olive_practices_drawing_noses
+Rule: progress <= 15
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! practices drawing noses ...
+SuccessText: and they look realistic and well-formed.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but they all look misshapen.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_studies_famous_portraits
+Name: Olive_studies_famous_portraits
+Rule: progress <= 15
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! studies famous portraits ...
+SuccessText: gaining valuable insights.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but feels overwhelmed by their complexity.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_drawing_ears
+Name: Olive_practices_drawing_ears
+Rule: progress <= 15
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! practices drawing ears ...
+SuccessText: with attention to detail.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but struggles with their shape.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_quick_sketches
+Name: Olive_draws_quick_sketches
+Rule: progress <= 15
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! draws quick sketches ...
+SuccessText: that are still remarkably detailed.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but they lack detail.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_different_expressions
+Name: Olive_draws_different_expressions
+Rule: progress <= 15
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! draws different expressions ...
+SuccessText: showcasing a wide range of emotions.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but they all look similar.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_facial_proportions
+Name: Olive_practices_facial_proportions
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! practices facial proportions ...
+SuccessText: and they are spot on.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but they are off.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_experiments_with_charcoal
+Name: Olive_experiments_with_charcoal
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! experiments with charcoal ...
+SuccessText: creating striking contrasts and rich textures.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but struggles with its messiness.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_uses_pastels
+Name: Olive_uses_pastels
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! uses pastels ...
+SuccessText: to add vibrant colors to her portrait.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: and ends up with a muddled mess.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_uses_watercolors
+Name: Olive_uses_watercolors
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! uses watercolors ...
+SuccessText: to give her portraits a gentle, soft touch.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but the paint runs everywhere.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_using_ink
+Name: Olive_sketches_using_ink
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! sketches using ink ...
+SuccessText: achieving clean lines and strong contrast.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but struggles with the permanence.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_tries_different_shading_techniques
+Name: Olive_tries_different_shading_techniques
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! tries different shading techniques ...
+SuccessText: with impressive control and depth.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: and ends up with smudges.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_practices_using_light
+Name: Olive_practices_using_light
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! practices using light ...
+SuccessText: to add drama to her portrait.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but ends up with unflattering shadows.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_sketches_an_old_man
+Name: Olive_sketches_an_old_man
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! sketches an old man ...
+SuccessText: capturing his wisdom and character.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but misses his unique features.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_draws_young_children
+Name: Olive_draws_young_children
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! draws young children ...
+SuccessText: portraying their innocence perfectly.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but can't capture their essence.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_paints_different_seasons
+Name: Olive_paints_different_seasons
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! paints different seasons ...
+SuccessText: capturing the essence of each season.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: finding it hard to balance, ending with a mismatched seasonal mix.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_incorporates_musical_themes
+Name: Olive_incorporates_musical_themes
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! incorporates musical themes ...
+SuccessText: Crafts a dynamic portrait that seems to hum with melody.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: Struggles to balance notes and portraits, ending with a cluttered mess.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_uses_wax_seals
+Name: Olive_uses_wax_seals
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! uses wax seals ...
+SuccessText: which adds a profound, historical touch.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: ending with a blotchy mess.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_paints_extreme_close-ups
+Name: Olive_paints_extreme_close-ups
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! paints extreme close-ups ...
+SuccessText: capturing fine details that create a powerful, intimate portrait.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but ends up with distorted features.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_adds_mirrored_text
+Name: Olive_adds_mirrored_text
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! adds mirrored text ...
+SuccessText: creating a clever, reflective message.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: and misaligns the text, with a jarring effect.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_presents_her_portfolio
+Name: Olive_presents_her_portfolio
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! presents her portfolio ...
+SuccessText: impressing the entire class.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but feels embarrassed by her work.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: epic
+
+
+# section: scenario_Olive_sketches_outdoor_portraits
+Name: Olive_sketches_outdoor_portraits
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! sketches outdoor portraits ...
+SuccessText: capturing the natural light beautifully.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but struggles with the shifting light.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: epic
+
+
+# section: scenario_Olive_paints_elements_of_air
+Name: Olive_paints_elements_of_air
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! paints elements of air ...
+SuccessText: conveying wind and movement with light and breezy strokes.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: struggling to depict motion, ending with a static appearance.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: legendary
+
+
+# section: scenario_Olive_applies_real_leaves
+Name: Olive_applies_real_leaves
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! applies real leaves ...
+SuccessText: integrating them beautifully, adding a touch of nature to her art.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: and struggles with the fragility, breaking them.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: legendary
+
+
+# section: scenario_Olive_attempts_a_profile_view
+Name: Olive_attempts_a_profile_view
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! attempts a profile view ...
+SuccessText: and nails the perspective perfectly.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but the proportions are all wrong.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_dynamic_poses
+Name: Olive_draws_dynamic_poses
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! draws dynamic poses ...
+SuccessText: that convey motion and life.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but they look stiff.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_from_memory
+Name: Olive_draws_from_memory
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! draws from memory ...
+SuccessText: and produces a vivid, detailed portrait.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but forgets crucial details.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_hands_in_portraits
+Name: Olive_sketches_hands_in_portraits
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! sketches hands in portraits ...
+SuccessText: with expert precision.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but they look awkward and unnatural.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_adds_sculptural_elements
+Name: Olive_adds_sculptural_elements
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! adds sculptural elements ...
+SuccessText: combining 3D art with her portrait
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: and fails to attach materials securely.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_uses_mosaic_technique
+Name: Olive_uses_mosaic_technique
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! uses mosaic technique ...
+SuccessText: creating a striking portrait through tiny pieces.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but it's a jumbled mess.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: common
+
+
+# section: scenario_Olive_expands_her_art_style
+Name: Olive_expands_her_art_style
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! expands her art style ...
+SuccessText: to incorporate more abstract concepts.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but struggles to break old habits.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_paints_imaginary_creatures
+Name: Olive_paints_imaginary_creatures
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! paints imaginary creatures ...
+SuccessText: envisioning fantastical beings.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but has difficulty drawing the anatomy.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_asks_classmates_to_model
+Name: Olive_asks_classmates_to_model
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! asks classmates to model ...
+SuccessText: capturing their essence with remarkable accuracy and charm.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: with classmate portraits unrecognizable.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_introduces_embossed_patterns
+Name: Olive_introduces_embossed_patterns
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! introduces embossed patterns ...
+SuccessText: achieving a textured portrait with eye-catching depth.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: which fail to align properly, resulting in a chaotic presentation.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_draws_a_self-portrait
+Name: Olive_draws_a_self-portrait
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! draws a self-portrait ...
+SuccessText: capturing her likeness accurately.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but it looks nothing like her.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_tries_a_live_model
+Name: Olive_tries_a_live_model
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! tries a live model ...
+SuccessText: and captures their likeness well.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but can't capture their likeness.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: rare
+
+
+# section: scenario_Olive_reflects_on_her_progress
+Name: Olive_reflects_on_her_progress
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! reflects on her progress ...
+SuccessText: and feels proud of her achievements.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but doubts her own abilities.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: epic
+
+
+# section: scenario_Olive_paints_a_group_portrait
+Name: Olive_paints_a_group_portrait
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! paints a group portrait ...
+SuccessText: skillfully arranging the composition.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but it's chaotic and disorganized.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: epic
+
+
+# section: scenario_Olive_tries_drawing_with_her_left_hand
+Name: Olive_tries_drawing_with_her_left_hand
+Rule: progress >= 70
+LocationImage: DayOutcomes/Portraits_location
+ActionImage: DayOutcomes/Portraits_action
+ActionText: !name! tries drawing with her left hand ...
+SuccessText: surprising herself with the result.
+SuccessImage: DayOutcomes/Portraits_success
+FailureText: but finds it difficult.
+FailureImage: DayOutcomes/Portraits_failure
+Rarity: epic
+

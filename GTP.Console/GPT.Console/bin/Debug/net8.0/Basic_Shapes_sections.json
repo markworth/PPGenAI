@@ -1,0 +1,888 @@
+
+# section: scenario_Olive_draws_a_circle
+Name: Olive_draws_a_circle
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws a circle ...
+SuccessText: creating a perfect round shape with steady hands.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but makes an uneven oval with shaky lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_a_square
+Name: Olive_sketches_a_square
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! sketches a square ...
+SuccessText: with precise edges and equal sides.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with wobbly, mismatched lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_tackles_triangles
+Name: Olive_tackles_triangles
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! tackles triangles ...
+SuccessText: aligning angles and sides perfectly.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: struggling to match the corners.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_masters_rectangles
+Name: Olive_masters_rectangles
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! masters rectangles ...
+SuccessText: achieving symmetry and smooth lines.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: drawing uneven, distorted shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_attempts_an_oval
+Name: Olive_attempts_an_oval
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! attempts an oval ...
+SuccessText: with well-balanced curves.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with lopsided, irregular form.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_creating_diamonds
+Name: Olive_creating_diamonds
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! creating diamonds ...
+SuccessText: with exact symmetry.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: and struggles to align the points.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_pentagons
+Name: Olive_sketches_pentagons
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! sketches pentagons ...
+SuccessText: with perfect sides and angles.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with distorted edges.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_star_shapes
+Name: Olive_draws_star_shapes
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws star shapes ...
+SuccessText: with precise points and symmetry.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with uneven, mismatched lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_hearts
+Name: Olive_draws_hearts
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws hearts ...
+SuccessText: with smooth curves.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with jagged edges.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_ellipses
+Name: Olive_practices_ellipses
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! practices ellipses ...
+SuccessText: with balanced proportions.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with lumpy outlines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_models_isosceles_triangles
+Name: Olive_models_isosceles_triangles
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! models isosceles triangles ...
+SuccessText: achieving equal heights.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with mismatched sides.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_tries_charcoal
+Name: Olive_tries_charcoal
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! tries charcoal ...
+SuccessText: and achieves dramatic, detailed shapes with intense contrast.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but producing muddy, indistinct shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_spirals
+Name: Olive_draws_spirals
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws spirals ...
+SuccessText: with smooth, continuous curves.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with uneven, erratic lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_cylinders
+Name: Olive_practices_cylinders
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! practices cylinders ...
+SuccessText: with convincing roundness.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with flattened, unrealistic sides.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_explores_minimalism
+Name: Olive_explores_minimalism
+Rule: progress <= 15
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! explores minimalism ...
+SuccessText: creating compelling yet simple shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with shapes appearing overly simplistic.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: rare
+
+
+# section: scenario_Olive_replicates_polygons
+Name: Olive_replicates_polygons
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! replicates polygons ...
+SuccessText: with accuracy.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in misshapen forms.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_crescents
+Name: Olive_sketches_crescents
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! sketches crescents ...
+SuccessText: with graceful arcs.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with uneven shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_works_in_ink
+Name: Olive_works_in_ink
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! works in ink ...
+SuccessText: producing sharp, clean shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: creating blotchy, uneven shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_works_with_colored_pencils
+Name: Olive_works_with_colored_pencils
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! works with colored pencils ...
+SuccessText: producing vibrant and meticulously detailed shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: creating uneven, weakly colored shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_works_with_pastels
+Name: Olive_works_with_pastels
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! works with pastels ...
+SuccessText: blending colors into soft, beautiful shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: leaving harsh lines, struggles blending colors.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_animal_shapes
+Name: Olive_draws_animal_shapes
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws animal shapes ...
+SuccessText: which capture the essence of each animal.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: producing generic, lifeless shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_a_landscape
+Name: Olive_draws_a_landscape
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws a landscape ...
+SuccessText: with detailed, accurately proportioned shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with poorly proportioned elements, disrupting the scene.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_explores_abstract_art
+Name: Olive_explores_abstract_art
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! explores abstract art ...
+SuccessText: creating striking, imaginative shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: producing a piece seen as messy.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_works_on_pattern_creation
+Name: Olive_works_on_pattern_creation
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! works on pattern creation ...
+SuccessText: and repeats intricate patterns with precision.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with pattern consistency breaks and some shapes differ.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_explores_emotive_art
+Name: Olive_explores_emotive_art
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! explores emotive art ...
+SuccessText: creating shapes that convey deep emotions.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but the shapes lack emotional impact.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_attempts_collage
+Name: Olive_attempts_collage
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! attempts collage ...
+SuccessText: assembling a dynamic, coherent piece.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but struggles, resulting in a disorganized collage.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_studies_3D_shapes
+Name: Olive_studies_3D_shapes
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! studies 3D shapes ...
+SuccessText: adding realistic dimensions.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in flat, lifeless figures.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_spheres
+Name: Olive_sketches_spheres
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! sketches spheres ...
+SuccessText: with polished shading.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: as misshapen circles.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_replicates_cones
+Name: Olive_replicates_cones
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! replicates cones ...
+SuccessText: with perfect perspective.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with distorted dimensions.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_models_cubes
+Name: Olive_models_cubes
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! models cubes ...
+SuccessText: with realistic perspective.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in flat squares.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_replicates_pyramids
+Name: Olive_replicates_pyramids
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! replicates pyramids ...
+SuccessText: with sharp angles.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with mismatched heights.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_proportions
+Name: Olive_practices_proportions
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! practices proportions ...
+SuccessText: with accurate sizing.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in odd shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_irregular_shapes
+Name: Olive_practices_irregular_shapes
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! practices irregular shapes ...
+SuccessText: showing creative balance.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in disproportionate forms.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_large_hexagons
+Name: Olive_practices_large_hexagons
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! practices large hexagons ...
+SuccessText: with accurate lines and angles.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with skewed forms.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_replicates_hexagons
+Name: Olive_replicates_hexagons
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! replicates hexagons ...
+SuccessText: with equal sides and angles.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: ending up with a mishmash of lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_explores_shading_techniques
+Name: Olive_explores_shading_techniques
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! explores shading techniques ...
+SuccessText: creating realistic, lifelike shadows on her shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: creating faint, barely noticeable shadows, lacking depth.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_uses_vibrant_watercolors
+Name: Olive_uses_vibrant_watercolors
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! uses vibrant watercolors ...
+SuccessText: creating vivid shapes that captivate the class.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with colours bleeding, losing the intended shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_explores_scale_and_proportion
+Name: Olive_explores_scale_and_proportion
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! explores scale and proportion ...
+SuccessText: creating balanced, proportionate shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: producing disproportionate, awkward shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_draws_from_memory
+Name: Olive_draws_from_memory
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws from memory ...
+SuccessText: creating precisely accurate shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but misses key details, shapes look incorrect.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_works_on_murals
+Name: Olive_works_on_murals
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! works on murals ...
+SuccessText: and paints large shapes with precision.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but the shapes appear disorganized at scale.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_uses_oil_pastels
+Name: Olive_uses_oil_pastels
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! uses oil pastels ...
+SuccessText: and achieves smooth, bold shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but struggles with blending, producing harsh edges.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: rare
+
+
+# section: scenario_Olive_explores_negative_space
+Name: Olive_explores_negative_space
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! explores negative space ...
+SuccessText: producing an engaging and thought-provoking piece.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: causing the shapes to look cramped and busy.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: rare
+
+
+# section: scenario_Olive_draws_symmetrical_shapes
+Name: Olive_draws_symmetrical_shapes
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws symmetrical shapes ...
+SuccessText: with mirrored accuracy.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in skewed figures.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: rare
+
+
+# section: scenario_Olive_experiments_with_foreshortening
+Name: Olive_experiments_with_foreshortening
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! experiments with foreshortening ...
+SuccessText: creating more realistic, dynamic shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but struggles, shapes look distorted.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: epic
+
+
+# section: scenario_Olive_explores_surrealism
+Name: Olive_explores_surrealism
+Rule: progress > 15
+Rule: progress < 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! explores surrealism ...
+SuccessText: creating captivating, dream-like shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: and misses the surreal aspect, with shapes appearing random.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: legendary
+
+
+# section: scenario_Olive_works_on_complex_curves
+Name: Olive_works_on_complex_curves
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! works on complex curves ...
+SuccessText: achieving smooth, flowing lines.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: producing jagged, rough edges.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_parallelograms
+Name: Olive_draws_parallelograms
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws parallelograms ...
+SuccessText: with accurate angles.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with wonky lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_trapezoids
+Name: Olive_sketches_trapezoids
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! sketches trapezoids ...
+SuccessText: with perfect symmetry.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with crooked sides.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_symmetry
+Name: Olive_practices_symmetry
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! practices symmetry ...
+SuccessText: with flawless reflection.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with mismatched halves.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_works_on_symmetry
+Name: Olive_works_on_symmetry
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! works on symmetry ...
+SuccessText: with halves matching perfectly.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with asymmetric appearances.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_replicates_rhombuses
+Name: Olive_replicates_rhombuses
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! replicates rhombuses ...
+SuccessText: achieving equal sides.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with misshapen lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_symmetrical_stars
+Name: Olive_draws_symmetrical_stars
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws symmetrical stars ...
+SuccessText: with perfect points.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in distorted shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_practices_cross-hatching
+Name: Olive_practices_cross-hatching
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! practices cross-hatching ...
+SuccessText: achieves deep, dimensional shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: producing chaotic, messy shading.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_draws_spirographs
+Name: Olive_draws_spirographs
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! draws spirographs ...
+SuccessText: forming smooth, flowing patterns.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: creating messy, rough designs.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_sketches_polyhedrons
+Name: Olive_sketches_polyhedrons
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! sketches polyhedrons ...
+SuccessText: capturing three-dimensionality.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: losing a sense of depth.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_models_cylinders
+Name: Olive_models_cylinders
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! models cylinders ...
+SuccessText: with accurate shading.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: creating flat forms.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_tries_stippling
+Name: Olive_tries_stippling
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! tries stippling ...
+SuccessText: achieving richly textured shapes with dots.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but her shapes lack definition with scattered dots.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_uses_ink_washes
+Name: Olive_uses_ink_washes
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! uses ink washes ...
+SuccessText: achieving beautiful, fluid shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: producing blotchy, inconsistent shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: common
+
+
+# section: scenario_Olive_experiments_with_light_sources
+Name: Olive_experiments_with_light_sources
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! experiments with light sources ...
+SuccessText: producing a stunning play of light and shadow.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: but poorly executed with misaligned shadows.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_experiments_with_arches
+Name: Olive_experiments_with_arches
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! experiments with arches ...
+SuccessText: creating elegant curves.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: making uneven forms.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_sketches_concentric_circles
+Name: Olive_sketches_concentric_circles
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! sketches concentric circles ...
+SuccessText: with evenly spaced rings.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with uneven gaps.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_experiments_with_texture
+Name: Olive_experiments_with_texture
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! experiments with texture ...
+SuccessText: adding realistic gradations to her shapes.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in inconsistent and flat shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_tries_perspective_drawing
+Name: Olive_tries_perspective_drawing
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! tries perspective drawing ...
+SuccessText: achieves a flawless three-dimensional effect.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: creating distorted, unrefined shapes.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: uncommon
+
+
+# section: scenario_Olive_experiments_with_tessellations
+Name: Olive_experiments_with_tessellations
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! experiments with tessellations ...
+SuccessText: creating a seamless pattern.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: resulting in jumbled pieces.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: rare
+
+
+# section: scenario_Olive_models_octagons
+Name: Olive_models_octagons
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! models octagons ...
+SuccessText: with precise angles.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: with uneven sides.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: rare
+
+
+# section: scenario_Olive_engages_in_contour_drawing
+Name: Olive_engages_in_contour_drawing
+Rule: progress >= 70
+LocationImage: DayOutcomes/Basic_Shapes_location
+ActionImage: DayOutcomes/Basic_Shapes_action
+ActionText: !name! engages in contour drawing ...
+SuccessText: with perfectly mapping without lifting the pencil.
+SuccessImage: DayOutcomes/Basic_Shapes_success
+FailureText: producing indistinct, overlapping lines.
+FailureImage: DayOutcomes/Basic_Shapes_failure
+Rarity: epic
+

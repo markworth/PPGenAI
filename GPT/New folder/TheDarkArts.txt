@@ -1,0 +1,78 @@
+# layout: Dialogue
+# live2d: witch
+# video: video/Witch Hut
+
+=== intro ===
+{ taken == 1:
+Tremble before the power of The Dark Arts!
+Here you will study the ancient and the forbidden.
+}
+{ taken > 1:
+Welcoe back to class.
+}
+-> END
+
+=== outro ===
+{ completed == 0 and days > 0: It's a shame you couldn't finish the week.}
+{ completed == 0 and days == 0: What a complete waste of everyone's time.}
+{ totalsuccess == 1: Well done! }
+{ totalfailure == 1: Oh dear! }
+{ failure == 1: Never mind }
+{ success == 1: Nice }
+{ progress >= 100: I'm not sure there's much more I can teach you.}
+-> END
+
+=== notpaid ===
+I look forward to the day when you can join us and share your talents with the group.
+-> END
+
+=== config ===
+Name: The Dark Arts
+Group: magic
+Buffs: IMG, INT
+Nerfs: MOR
+Level: 4
+Character: witch
+Stress: Very High
+Success: chance(100)
+
+# section: available
+Rule: Year >= 1
+
+# section: start
+Cost: 150
+Path: intro
+
+# section: success
+Stat: IMG + [10] 0 [75] 1 [15] 2
+Stat: Stress + [95] 6 [5] 5
+
+# section: end
+Path: outro
+
+# section: scenario_checkers
+Name: checkers
+Rule: taken < 5
+Stat: INT + 1
+LocationImage: DayOutcomes/Painting/house
+ActionImage: DayOutcomes/Painting/checkers
+ActionText: You play checkers ...
+SuccessText: you let him win
+SuccessImage: DayOutcomes/Painting/checkers_success
+FailureText: he does not enjoy losing
+FailureImage: DayOutcomes/Painting/checkers_failure
+Rarity: common
+
+# section: scenario_checkers_sickofit
+Name: checkers
+Rule: taken >= 5
+LocationImage: DayOutcomes/Painting/house
+ActionImage: DayOutcomes/Painting/checkers
+ActionText: You play checkers ...
+SuccessText: you let him win
+SuccessImage: DayOutcomes/Painting/checkers_success
+FailureText: he is sick of checkers
+FailureImage: DayOutcomes/Painting/checkers_failure
+Rarity: common
+
+ -> END

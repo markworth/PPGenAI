@@ -1,0 +1,1937 @@
+totalfailure:
+{ totalfailure == 1 and random >= 0 and random <= 100:
+{ shuffle:
+ - It seems you haven't gained much from our lessons, !name!. What went wrong?
+ - I'm disappointed, !name!. You haven't grasped any of the material.
+ - It seems you haven't grasped much at all, !name!.
+ - It seems you’ve struggled with the material. What happened, !name!?
+ - It seems you've not absorbed any of the material, !name!. This is disappointing.
+ - I'm disappointed, !name!. It seems you’ve gained nothing from our time together.
+ - It seems you haven't grasped the core concepts, !name!. We'll need to evaluate your approach.
+ - It seems nothing stuck this time. Let's try a different approach.
+ - It seems none of my teachings have taken root within you, !name!. This is rather disappointing.
+ - It seems you've gained nothing from these lessons, !name!. This is disheartening.
+ - All this effort, and yet no progress. Perhaps this isn't meant for you.
+ - It seems, !name!, that you haven't absorbed the material. It's as if we've made no progress.
+ - It’s unfortunate, !name!, but you have not absorbed any of the lessons.
+ - !name!, it seems that you have not grasped the material. We need to assess where it went wrong.
+ - It seems like you haven’t grasped any of the lessons, !name!.
+ - I'm disappointed; I thought you would put in more effort.
+ - !name!, it seems you have not absorbed anything from this course. What happened?
+ - !name!, it seems you have not absorbed any of the lessons. This is disappointing.
+ - I'm afraid you haven't learned anything, !name!. You need to focus more.
+ - It seems our time together hasn't been fruitful, !name!. I’m truly sorry.
+ - It seems you haven't absorbed anything from our sessions, !name!.
+ - I see no progress. Perhaps this isn't the right path for you.
+ - It seems, !name!, that nothing was gained from our lessons. Perhaps this isn't your path.
+ - It seems you haven't grasped the lessons, !name!. We'll need to start over.
+ - This is disappointing, !name!. You haven't absorbed any of the material.
+ - It appears you haven't absorbed any of the lessons, !name!. This is disappointing.
+ - It seems you’ve learned nothing from these lessons, !name!. Perhaps another approach is needed.
+ - It seems you have not absorbed anything from this class, !name!. What went wrong?
+ - It seems, !name!, that you have gained nothing from these lessons. I'm disappointed.
+ - !name!, I'm disappointed. It seems you have gained nothing from these lessons.
+ - It seems you haven't grasped the material, !name!. We might need to review our approach.
+ - It seems you haven't grasped anything, !name!. We need to review your approach.
+ - !name!, I'm disappointed. It seems you haven't learned anything from our sessions.
+ - It seems you haven't taken much from these lessons, !name!. Perhaps this subject isn't for you.
+ - !name!, I'm saddened to say you’ve made no progress. What have you been doing?
+ - It's disappointing to see no improvement. Were you not paying attention?
+ - It seems you have not absorbed anything from my lessons, !name!.
+ - It seems nothing from our sessions has taken root, !name!. Perhaps this isn't for you.
+ - I'm disappointed, !name!. There's been no progress.
+ - !name!, it seems you haven't gained anything from these lessons. We need to reassess our approach.
+ - !name!, it seems you gained nothing from these lessons. This is disappointing.
+ - Perhaps you need a different approach or a new mentor.
+ - !name!, it seems you haven't grasped the lessons. We need to approach this differently.
+ - It seems you haven’t gained anything from these sessions, !name!. Perhaps this isn’t the right path for you.
+ - Unfortunately, it seems you did not grasp anything from my lessons.
+ - It seems you have gained nothing from these lessons, !name!. We must reassess our approach.
+ - It appears you have learned nothing in my class, !name!. This is disappointing.
+ - I'm disappointed, !name!. It seems you haven't retained anything from our lessons.
+ - It seems you’ve learned nothing from our time together, !name!. I expected better.
+ - Disappointing, !name!. You haven’t grasped anything I’ve taught.
+ - I'm really sorry, teacher. I'll try to do better.
+ - # princess: left
+I'm just not that interested in this subject, sorry.
+# princess: off
+# live2dposition: centre
+That’s unfortunate to hear, {player_name}. Maybe another topic would spark your interest.
+ - # princess: left
+I'm not really feeling this class today.
+# live2dposition: left
+I understand, {player_name}. Maybe a different approach will rekindle your interest.
+ - # princess: left
+I just can't find this interesting, Teacher.
+# princess: off
+# live2dposition: centre
+Sometimes, the most valuable lessons are the hardest to appreciate initially.
+ - # live2dposition: left
+{player_name}, you seem disinterested in today’s lesson. Everything alright?
+# princess: left
+I'm sorry, sir. This topic just doesn’t engage me.
+ - # live2dposition: left
+{player_name}, you seem uninterested in today's lesson. Is there something on your mind?
+# princess: left
+I'm sorry, Mr. Alador. I'm just not feeling it today.
+ - # princess: left
+Honestly, I’m just not that interested in this subject.
+# live2dposition: left
+I see, {player_name}. Perhaps we can find an aspect that captures your interest.
+ - # live2dposition: left
+{player_name}, your lack of interest is noticeable. Let’s find a way to make the learning engaging for you.
+# princess: left
+Sorry, I just can't focus on this.
+ - # princess: left
+I don't see the point in this, teacher.
+# live2dposition: left
+It's important, {player_name}. Try to see the value in it.
+ - # live2dposition: left
+{player_name}, why do you seem disinterested? Is there a reason?
+# princess: left
+I just don’t find the lessons engaging, teacher.
+ - # live2dposition: left
+{player_name}, your lack of interest is evident. Is there something else on your mind?
+# princess: left
+I just don't find this topic exciting, sir.
+# princess: off
+# live2dposition: centre
+Perhaps we can find a subject that resonates more with you.
+ - # princess: left
+I'm sorry, teacher. I just don't find this interesting.
+# live2dposition: left
+Perhaps you haven't found the right angle of curiosity yet. Every subject has something wondrous in it.
+# princess: left
+I'll try to see it that way.
+ - # live2dposition: left
+{player_name}, you seem disinterested today.
+# princess: left
+I'm sorry, teacher. I'm just not feeling it today.
+ - # live2dposition: left
+{player_name}, you seem disinterested. Is there something bothering you?
+# princess: left
+I don’t really see the point of this, Teacher.
+# princess: off
+# live2dposition: centre
+Every lesson has value, {player_name}. Try to find what resonates with you.
+ - # princess: left
+I just don't find this subject engaging, teacher.
+# live2dposition: left
+Perhaps it simply isn’t your passion, {player_name}. Let's try to uncover what truly interests you.
+ - # live2dposition: left
+{player_name}, you seem disinterested. Is something bothering you?
+# princess: left
+I just don't find this topic engaging, Teacher.
+# princess: off
+# live2dposition: centre
+Maybe we can find a different angle to spark your interest.
+ - # princess: left
+Sir, I just don't find this interesting.
+# live2dposition: left
+{player_name}, sometimes the most valuable lessons lie where our interest does not.
+ - # live2dposition: left
+{player_name}, are you okay? You don’t seem interested today.
+# princess: left
+I’m sorry, teacher. I'm just not into it anymore.
+ - # princess: left
+I'm not really interested in this, to be honest.
+# princess: off
+# live2dposition: centre
+That's unfortunate, {player_name}. Learning requires passion. Perhaps a different subject might spark your interest.
+ - # live2dposition: left
+{player_name}, your lack of interest is noticeable. Is there something amiss?
+# princess: left
+Honestly, I'm finding it hard to stay engaged.
+# live2dposition: left
+Let's discuss how we can make this more interesting for you.
+ - # live2dposition: left
+{player_name}, I sense a lack of interest. Is there something you'd rather be doing?
+# princess: left
+I'm sorry, sir. I'm just not connecting with this class.
+# live2dposition: left
+Perhaps another subject will spark your interest, {player_name}.
+ - # live2dposition: left
+{player_name}, you seem disinterested. Is there something on your mind?
+# princess: left
+I just don't find this topic engaging, sir.
+ - # live2dposition: left
+{player_name}, you seem distracted. Are you not interested in the lesson today?
+# princess: left
+I'm sorry, teacher. My mind is somewhere else.
+ - # live2dposition: left
+{player_name}, you seem uninterested. Is something wrong?
+# princess: left
+I'm sorry, sir. I just can't seem to connect with this material.
+ - # live2dposition: left
+{player_name}, are you even interested in learning today?
+# princess: left
+Not really, sir. I'm having a hard time concentrating.
+# princess: off
+# live2dposition: centre
+Let's find a way to make it more engaging for you.
+ - # live2dposition: left
+{player_name}, you seem disinterested. Is something the matter?
+# princess: left
+I just don't find this topic exciting, sir.
+# live2dposition: left
+Learning isn't always about excitement, {player_name}. It's about growth. Please try to focus.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is everything alright?
+# princess: left
+I don't know, teacher. I'm just not feeling it lately.
+# princess: off
+# live2dposition: centre
+It's okay to have off days. Let's find a way to rekindle your interest.
+ - # princess: left
+I don't really care about this topic.
+# live2dposition: left
+What interests you, {player_name}? Let’s find a way to connect this to your passion.
+ - # princess: left
+I don't really see the point of this, teacher.
+# live2dposition: left
+{player_name}, sometimes the true value of knowledge isn't immediately apparent. Give it time.
+ - # live2dposition: left
+{player_name}, if you're not interested, it's hard for me to help you.
+# princess: left
+I'm sorry, teacher. I'll try to be more engaged.
+ - # princess: left
+Honestly, teacher, I’m just not interested in this subject.
+# live2dposition: left
+That’s unfortunate, {player_name}. Perhaps trying to find connections to your interests might help.
+ - # live2dposition: left
+{player_name}, it seems like you're not interested in today's lesson. Why is that?
+# princess: left
+I don’t know. I just can’t seem to focus.
+ - # live2dposition: left
+{player_name}, you don't seem interested in today's lesson. What's on your mind?
+# princess: left
+Honestly, this topic doesn't excite me.
+# princess: off
+# live2dposition: centre
+I understand. Let's find an angle that might spark your interest.
+ - # princess: left
+Honestly, teacher, I'm just not interested in this topic.
+# live2dposition: left
+It's important to find what truly excites you, {player_name}. Let's discuss where your passions lie.
+ - # live2dposition: left
+{player_name}, you seem disinterested in today's lesson. Is everything alright?
+# princess: left
+I just don't find this topic engaging, Teacher.
+# live2dposition: left
+Not every lesson will captivate you, but every lesson is valuable.
+ - # live2dposition: left
+{player_name}, you seem disengaged today. Is something on your mind?
+# princess: left
+I'm sorry, sir. I'm just not interested in today's topic.
+ - # princess: left
+Honestly, this doesn't interest me much.
+# live2dposition: left
+That’s alright, {player_name}. Not everything is for everyone. Maybe you’ll find your passion elsewhere.
+ - # princess: left
+Honestly, I don't think this class is for me.
+# live2dposition: left
+I understand, {player_name}. Everyone has their own path to follow.
+ - # princess: left
+I'm finding this pretty boring.
+# live2dposition: left
+I understand, {player_name}. Let’s try to find what truly captures your interest.
+ - # princess: left
+I'm just not interested in this class anymore.
+# princess: off
+# live2dposition: centre
+I understand, {player_name}. Perhaps it's time for you to pursue other interests.
+ - # live2dposition: left
+{player_name}, you seem disinterested. Is everything alright?
+# princess: left
+I'm just not finding this subject engaging.
+ - # princess: left
+I’m just not interested in this, teacher.
+# live2dposition: left
+{player_name}, sometimes the most important lessons are hidden where we least want to look.
+ - # live2dposition: left
+{player_name}, it looks like you're struggling. Is there something you're not understanding?
+# princess: left
+I'm not sure, I just can't seem to grasp it.
+ - # princess: left
+I'm sorry, sir. I tried, but I don't understand.
+# live2dposition: left
+We'll have to find a different approach next time.
+ - # live2dposition: left
+{player_name}, you haven't managed to learn anything substantial from our sessions.
+# princess: left
+I'm so sorry. I'll try harder if given another chance.
+# princess: off
+# live2dposition: centre
+Let’s reassess and focus where it matters most.
+ - # live2dposition: left
+{player_name}, I'm concerned you've learned little. Was something distracting you?
+# princess: left
+I tried, but I couldn’t focus lately.
+ - # live2dposition: left
+{player_name}, I'm concerned you didn't grasp anything from this class.
+# princess: left
+I tried, Mr. Alador, but I just don't understand.
+ - # live2dposition: left
+What happened, {player_name}? You should have understood these concepts by now.
+# princess: left
+I'm sorry, I just couldn't grasp it.
+# live2dposition: left
+We may need to revisit the basics. Focus is key.
+ - # live2dposition: left
+Why haven’t you absorbed the lessons, {player_name}? Was there something unclear?
+# princess: left
+I tried, but I’m just not understanding.
+ - # live2dposition: left
+{player_name}, you seemed distracted. Should we go over the material again?
+# princess: left
+Yes, I think I need another review.
+ - # live2dposition: left
+{player_name}, what happened? You haven't really learned anything from our lessons.
+# princess: left
+I'm sorry, teacher. I tried, but I couldn't grasp the concepts.
+ - # princess: left
+I don't understand why I can't get it right.
+# princess: off
+# live2dposition: centre
+Sometimes, it just doesn't click. Perhaps a different approach or subject would suit you better.
+ - # live2dposition: left
+{player_name}, what's troubling you? You haven't shown much improvement.
+# princess: left
+I'm sorry, teacher. I'll try to focus more next time.
+# live2dposition: left
+Very well. I'll expect more effort from you.
+ - # live2dposition: left
+{player_name}, why haven't you learned anything?
+# princess: left
+I tried, but it just didn’t make any sense.
+ - # live2dposition: left
+{player_name}, your progress is lacking. What happened?
+# princess: left
+I'm struggling with the concepts, Teacher.
+# princess: off
+# live2dposition: centre
+We’ll need to review the basics again, {player_name}.
+ - # live2dposition: left
+{player_name}, is there something you’re struggling with? You've not improved much.
+# princess: left
+I’ve tried, but I don’t understand the material.
+# live2dposition: left
+We need to find a new approach, then.
+ - # live2dposition: left
+{player_name}, why have you not grasped the lessons? Is there something wrong?
+# princess: left
+I don't know, Teacher. I found it difficult to understand.
+# princess: off
+# live2dposition: centre
+We might need to revisit the basics, then.
+ - # live2dposition: left
+{player_name}, your progress is troubling. Why haven't you grasped the basics?
+# princess: left
+I'm sorry, teacher. I tried, but it's not making sense to me.
+# live2dposition: left
+You must try harder, {player_name}. True understanding requires effort.
+ - # live2dposition: left
+{player_name}, it doesn’t seem like you’ve gained much from my lessons. What went wrong?
+# princess: left
+I don’t know, maybe the material was too difficult for me.
+ - # princess: left
+I don't feel like I've learned much.
+# princess: off
+# live2dposition: centre
+That is disappointing to hear, {player_name}. We must reassess how you're approaching the material.
+ - # live2dposition: left
+{player_name}, I'm troubled. You haven't been absorbing the material.
+# princess: left
+I'm sorry, I might need a different approach.
+# live2dposition: left
+We can explore other methods if you're willing to try.
+ - # live2dposition: left
+{player_name}, it appears you struggled with the lessons. Shall we go over them again?
+# princess: left
+Yes, sir. I just need a bit more time to understand.
+# live2dposition: left
+Take your time, {player_name}. There's no rush to perfect understanding.
+ - # live2dposition: left
+{player_name}, your progress is lacking. It seems you haven't taken much from the class.
+# princess: left
+I'm sorry, sir. I'll try harder next time.
+ - # live2dposition: left
+{player_name}, why didn't you grasp the material?
+# princess: left
+I'm sorry, Teacher. I tried, but it didn’t make sense to me.
+# princess: off
+# live2dposition: centre
+We'll find a different method. Don’t lose heart.
+ - # live2dposition: left
+{player_name}, hasn't this been helpful at all?
+# princess: left
+I tried, but I can't seem to grasp these topics.
+ - # live2dposition: left
+{player_name}, why haven't you learned anything?
+# princess: left
+I'm sorry, sir. I tried, but it just didn't stick.
+# princess: off
+# live2dposition: centre
+We may need to find a different approach.
+ - # live2dposition: left
+{player_name}, why did you not apply yourself? This opportunity was wasted.
+# princess: left
+I'm sorry, sir. I tried, but it was difficult to understand.
+# live2dposition: left
+You must commit more if you wish to succeed.
+ - # princess: left
+I don't think I understood any of it, teacher.
+# live2dposition: left
+Let's revisit the basics, then. Don’t lose hope.
+ - # live2dposition: left
+{player_name}, what happened? You're not progressing as expected.
+# princess: left
+I’m really sorry. I thought I was following along.
+# live2dposition: left
+We need to find where you're struggling. Let’s figure it out together.
+ - # princess: left
+I did try, but it’s just not clicking.
+# live2dposition: left
+Sometimes it takes more effort. Perhaps a different method might help.
+ - # live2dposition: left
+{player_name}, why do you feel you've learned nothing?
+# princess: left
+I tried, but it just didn't stick with me.
+ - # live2dposition: left
+{player_name}, you haven't learned what I hoped for. What happened?
+# princess: left
+I tried, but nothing made sense.
+# princess: off
+# live2dposition: centre
+We'll need to revisit the basics then.
+ - # live2dposition: left
+{player_name}, what happened? You didn't seem to grasp much from our lessons.
+# princess: left
+I'm not sure, teacher. Maybe I wasn't focused enough.
+ - # live2dposition: left
+{player_name}, why do you think you haven't learned from this class?
+# princess: left
+I tried, but it just didn't click for me.
+# live2dposition: left
+Sometimes, it happens. Don't give up.
+ - # princess: left
+I really tried, but I just didn’t grasp anything.
+# live2dposition: left
+Maybe a different approach would suit you better, {player_name}. This method may not be for everyone.
+ - # princess: left
+I tried hard, but I feel I didn’t understand much.
+# live2dposition: left
+In that case, we may need to take a different approach, {player_name}.
+ - # princess: left
+I don’t feel like I understood much.
+# live2dposition: left
+We will need to find what works better for you, {player_name}. Let's not give up.
+ - # princess: left
+I really tried, but I didn't learn anything.
+# princess: off
+# live2dposition: centre
+I'm sorry to hear that, {player_name}. Perhaps another approach might work better.
+ - # live2dposition: left
+It seems these lessons aren't sticking with you, {player_name}.
+# princess: left
+I understand. I'll try to focus better next time.
+ - # live2dposition: left
+{player_name}, what’s going on? You’ve learned so little.
+# princess: left
+I’m sorry, I just couldn’t focus.
+# live2dposition: left
+We’ll need to find a way to better your focus, then.
+}
+
+{ totalSuccess == 1 and random >= 0 and random <= 100:
+{ shuffle:
+ - Excellent work, !name!! You've done very well in this class.
+ - !name!, you've done exceptionally well. Your efforts shine through every task.
+ - You've done very well, !name!. Your effort shows in your work.
+ - Excellent work, !name!. Your dedication is evident in your progress.
+ - !name!, I'm extremely impressed with your grasp of the material. You've done very well.
+ - !name!, you’ve done exceptionally well. Your grasp of these concepts is impressive.
+ - !name!, you've excelled beyond my expectations. Your grasp of the material is commendable.
+ - !name!, your progress is admirable. Keep up the great work!
+ - You’ve done very well, !name!. Your dedication is evident.
+ - You've performed admirably, !name!. Well done!
+ - Your efforts have paid off, !name!. I'm proud of you.
+ - !name!, you're excelling wonderfully! It's as if the material comes naturally to you.
+ - !name!, you've truly excelled beyond my expectations. Your grasp on the subject is commendable!
+ - !name!, you have truly excelled in this class. Your progress is remarkable.
+ - Outstanding work, !name!! You're one of the best students I've ever had.
+ - Your dedication and effort are truly admirable.
+ - !name!, you performed excellently today! Your hard work is paying off.
+ - Outstanding, !name!! Your understanding is remarkable.
+ - You’ve done very well, !name!. Your hard work is evident.
+ - !name!, you've done remarkably well in this class. Your progress is a delight to witness.
+ - !name!, your performance in this class has been outstanding. Well done!
+ - You're doing very well, !name!. It’s a pleasure to teach you.
+ - !name!, you have truly excelled. Your grasp on the material is remarkable.
+ - !name!, you've done an excellent job! Your progress is remarkable.
+ - I'm so proud of you, !name!. You've exceeded my expectations.
+ - !name!, you've done exceptionally well in this class. Your progress is commendable.
+ - !name!, your progress is commendable! You've done very well in understanding these lessons.
+ - !name!, you've done exceptionally well in this class. Your dedication and hard work are paying off beautifully.
+ - !name!, you've done an excellent job! Your grasp of the material is impressive.
+ - !name!, you have done very well in this class. Your zeal and dedication are truly commendable.
+ - !name!, you've done exceptionally well! I'm truly impressed by your progress.
+ - You've done exceptionally well, !name!. Your dedication is commendable.
+ - !name!, you've done exceptionally well. Your dedication has really paid off.
+ - !name!, you've done exceptionally well in this class! You’ve mastered the material with such grace and determination.
+ - !name!, your progress has been exceptional! You have truly excelled.
+ - I'm so proud of how well you have done, !name!. You should be very pleased with yourself.
+ - Excellent work, !name!. You've excelled in your studies.
+ - You've done very well, !name!. Your effort shows in your progress.
+ - Impressive work, !name!. You're excelling.
+ - !name!, your progress has been impressive! Keep it up and you'll master this in no time.
+ - !name!, you've done very well. Your understanding has grown immensely.
+ - I'm proud of your dedication and progress.
+ - Excellent work, !name!. Your understanding is impressive. Keep it up!
+ - !name!, your progress is truly commendable. You have grasped the concepts well.
+ - !name!, your progress is astounding! You've grasped the material incredibly well.
+ - !name!, you did truly well in this class. Your dedication and hard work are evident.
+ - !name!, you have done remarkably well. Your progress is impressive!
+ - You're doing excellent work, !name!! Keep up the great progress.
+ - You’ve done very well, !name!. I’m proud of you.
+ - Impressive, !name!. Your hard work is paying off.
+ - Astounding performance, !name!! You've exceeded all expectations.
+ - Outstanding work, !name!! I couldn't be prouder of your progress and dedication.
+ - Outstanding, !name!! You've exceeded all expectations.
+ - Outstanding, !name!! You’ve exceeded all my expectations.
+ - !name!, you've exceeded my expectations in every way. Your performance is outstanding!
+ - Outstanding, !name!! You’ve surpassed all expectations. Your dedication shines through.
+ - !name!, you're a natural! I've rarely seen anyone master these topics with such ease and precision.
+ - !name!, you have exceeded all my expectations. Truly exceptional work!
+ - !name!, you excelled beyond all expectations. I am incredibly proud of you.
+ - Outstanding work, !name!. You're truly exceptional.
+ - You've surpassed all expectations, !name!. Brilliant job!
+ - Astounding work, !name!! Your grasp of the subject is extraordinary. You have an impressive intellect.
+ - !name!, your performance is nothing short of extraordinary. You've mastered every lesson with unparalleled ease!
+ - !name!, your performance is simply outstanding. You have exceeded all expectations.
+ - I’m absolutely amazed by your skills, !name!. You’ve surpassed all expectations.
+ - You have the potential to become a master in your own right.
+ - Superb, !name!! You've surpassed all expectations. Keep soaring!
+ - Extraordinary! !name!, your grasp of the material is beyond expectations.
+ - !name!, you have exceeded all expectations. Truly exceptional work!
+ - !name!, your mastery of the material is beyond exemplary. I'm incredibly proud of you.
+ - !name!, I must say, you have exceeded all my expectations. Exceptional work!
+ - Your grasp of the material is extraordinary. Keep up the phenomenal work, !name!.
+ - I must say, !name!, you have surpassed all expectations. Your performance is nothing short of extraordinary!
+ - !name!, you're an extraordinary student. You're mastering things at a rapid pace!
+ - I couldn't ask for a better pupil. Your dedication is unparalleled.
+ - !name!, you have outshone everyone. Your grasp of the subject is truly exceptional.
+ - Remarkable work, !name!! Your grasp of the material is exceptional, truly beyond expectations.
+ - Remarkable, !name!! You are surpassing all my expectations. Keep it up, and you'll go far.
+ - Outstanding, !name!! You've exceeded all expectations. Your aptitude is remarkable.
+ - !name!, I must say, you have outdone yourself. Your grasp of the material is exceptional. Well done!
+ - !name!, you've surpassed all expectations. Your dedication is truly remarkable!
+ - !name!, your performance has exceeded all expectations. Truly remarkable work!
+ - !name!, your performance is nothing short of extraordinary. Every lesson, you exceed my expectations.
+ - !name!, your performance is extraordinary! You have exceeded all expectations and truly shine in your studies.
+ - !name!, your understanding and application of the material is unparalleled. Remarkable work!
+ - Outstanding, !name!! You have surpassed all expectations and mastered the subjects effortlessly.
+ - You’ve outdone yourself, !name!. Your understanding and skill are remarkable.
+ - !name!, your performance is outstanding. You've truly excelled beyond expectations.
+ - Remarkable, !name!. You've achieved exceptional results.
+ - Outstanding, !name!! Your dedication and skill are truly remarkable. You are a natural!
+ - !name!, your performance has been exceptional. You have outdone yourself.
+ - Continue on this path, and greatness will be yours.
+ - Remarkable, !name!! You’ve surpassed all expectations. Your grasp is near perfect.
+ - !name!, you’ve astonished me! Your understanding and skill are exceptional, beyond what I expected.
+ - !name!, you have truly outdone yourself! Your excellence shines through every lesson.
+ - Exceptional work, !name!! You have grasped every concept with excellence. I am very proud of you.
+ - !name!, your performance is outstanding! You have excelled beyond expectations!
+ - !name!, your performance is truly outstanding. You've surpassed all my expectations!
+ - Extraordinary work, !name!! You’ve surpassed my expectations.
+ - You’ve done amazingly well, !name!. Keep shining bright!
+}
+
+{ progress >= 100 and random >= 0 and random <= 100:
+{ shuffle:
+ - Thank you, teacher. I feel ready for what's next.
+ - You've reached the pinnacle of our lessons, !name!. You've absorbed all I have to give.
+ - Congratulations, !name!! You've learned everything I had to offer.
+ - !name!, you've learned all the topics I can offer. Your dedication has paid off.
+ - Congratulations, !name!. You’ve learned all there is to know from my classes. The world is your classroom now.
+ - You have learned everything I know, !name!. Go forth and use it wisely.
+ - You've absorbed all I have to teach, !name!. You are ready.
+ - Your journey with me ends here, !name!. You've mastered it all.
+ - !name!, you have absorbed all there is to know from my class.
+ - You’ve mastered all the topics, !name!. You’re ready to venture on your own now.
+ - Congratulations, !name!! You've mastered every topic we've covered.
+ - You've done brilliantly. I'm proud of you.
+ - You’ve achieved full mastery of everything I had to offer, !name!. You are exceptional!
+ - !name!, you've absorbed all that I've taught. You are truly dedicated.
+ - It seems there's nothing more for me to impart. You've mastered it all, !name!.
+ - !name!, you've learned everything there is. I am proud of your achievements.
+ - Congratulations, !name!! You've mastered everything I had to teach. I'm proud of your achievements.
+ - !name!, you've mastered the material. You've learned everything I have to offer.
+ - !name!, you have absorbed all that I could teach. You are now ready for greater challenges.
+ - !name!, you've mastered everything I can teach. Well done!
+ - You've mastered the material, !name!. Congratulations.
+ - !name!, you've become a true master of this subject. I have nothing more to teach you.
+ - !name!, you have learned all that this class has to offer. An exceptional achievement!
+ - You’ve mastered every lesson, !name!. It’s time for you to explore further on your own.
+ - You've mastered every topic we covered, !name!. My teachings are complete.
+ - !name!, you have mastered everything I had to teach. Your journey of learning will continue on your own path.
+ - !name!, you have mastered everything I have taught. It is time for you to spread your wings.
+ - Remember, knowledge is a journey, not a destination.
+ - You have mastered all the topics, !name!. There is nothing more I can teach you. Well done!
+ - You've absorbed all I could teach. I wish you the best on your future endeavors.
+ - You have learned all that I can offer, !name!. Your journey does not end here. Seek greater knowledge.
+ - You've mastered everything, !name!. There's nothing more I can teach you.
+ - You've learned everything I planned to teach, !name!. Your diligence has paid off.
+ - I have nothing more to teach you, !name!. Your journey now lies beyond this classroom.
+ - !name!, you've mastered everything I can teach you. It's time for you to explore new horizons.
+ - !name!, you’ve mastered all I can teach. Go forth and apply your knowledge.
+ - !name!, you have surpassed all I can teach you. It’s time for you to seek new horizons.
+ - !name!, you've mastered all I can teach you. It's time for you to move forward on your own.
+ - !name!, you’ve mastered all I have to teach. Your journey now lies beyond these walls.
+ - Remember, true wisdom is in seeking knowledge endlessly. Farewell, bright one.
+ - !name!, there's nothing more I can teach you. You have mastered all there is to know.
+ - !name!, you've absorbed all I can teach you. It's time to find a new journey.
+ - !name!, you have surpassed my teachings. Your journey now lies beyond these walls.
+ - !name!, you've learnt all I have to teach. It's time for you to explore new horizons.
+ - You've mastered my lessons. Go forth and apply your knowledge.
+ - !name!, you've reached the pinnacle of what I can teach you. It's time for you to explore higher learning.
+ - !name!, you've reached the pinnacle of what I can teach. It's time you sought new challenges.
+ - !name!, you’ve learned all I can teach you. It’s time for you to seek new horizons.
+ - !name!, you've mastered all that I can teach you. The world awaits your brilliance.
+ - It’s time for you to find new horizons and challenges, dear.
+ - !name!, you’ve reached the limits of what I can teach you. It's time for you to seek other mentors.
+ - !name!, you have outgrown my teachings. Seek greater knowledge beyond these walls.
+ - It is time for you to move on, !name!. I have taught you all I can.
+ - !name!, you’ve absorbed all I have to teach. It’s time for you to seek new horizons.
+ - !name!, you've reached the end of what I can teach you. It’s time for you to journey on your own.
+ - You’ve mastered everything I had to offer, !name!. Now, the world is your classroom.
+ - !name!, you have absorbed all I can teach. You are ready for the next stage.
+ - !name!, you have learned all that I can teach. May the knowledge serve you well in your journey.
+ - There's nothing more I can teach you, !name!. You've mastered my lessons.
+ - !name!, you have reached the peak of what I can teach you. The rest is up to you.
+ - You’ve absorbed all I can teach you, !name!. It’s time for you to apply your knowledge out in the world.
+ - !name!, you've learned all that I can teach you. Now it's time to spread your wings and explore further.
+ - !name!, you've learned all I can teach you. It's time for you to move on.
+ - !name!, you have learned all I can teach you. It is time for you to seek new horizons.
+ - !name!, you've absorbed all I have to teach. It's time for you to forge your own path.
+ - You've learned all I can teach you, !name!. It's time for you to seek new challenges.
+ - !name!, I’ve taught you all that I can. The rest of your journey is now in your hands.
+ - !name!, you've reached the limit of what I can teach you. It's time for you to seek further challenges elsewhere.
+ - !name!, you have learned all I can teach. The rest of the journey is now yours.
+ - Your potential is boundless, !name!. I have given you all the tools you need.
+ - !name!, you have grasped all I have to offer. Go forth and apply your knowledge.
+ - !name!, there's nothing more I can teach you. Your journey continues beyond this class.
+ - You've mastered all that I can offer. It's time to explore new challenges.
+ - !name!, you have surpassed all I can teach. The rest is now for you to discover on your own.
+ - !name!, you have absorbed all I have to offer. It's time to seek knowledge elsewhere.
+ - Your journey of learning continues beyond these walls.
+ - !name!, you’ve learned all I can teach. It's time for you to journey and discover more on your own.
+ - !name!, you've reached the limits of what I can teach you. You're ready to venture out on your own.
+ - !name!, you have learned all that I can teach you. Your journey now lies beyond this class.
+ - !name!, you have learned everything I have to teach. It is time for you to find your next challenge.
+ - !name!, you've mastered everything I have to teach. It's time for you to explore further fields.
+ - !name!, you've reached the height of what I can teach you. You've done splendidly.
+ - !name!, it's been an honor teaching you, but I believe you’ve surpassed all I can offer.
+ - You've learned all I can teach you, !name!. It's time to seek new horizons.
+ - # live2dposition: left
+{player_name}, you've covered all the topics thoroughly. I'm proud of you.
+# princess: left
+I'm grateful for your teaching. I couldn’t have done it without you.
+ - # princess: left
+I've enjoyed every moment. Thank you for everything!
+# live2dposition: left
+It’s been an honor, {player_name}. May your future endeavors be just as fruitful.
+ - # live2dposition: left
+{player_name}, you now know all the topics we covered. Well done!
+# princess: left
+I couldn't have done it without your guidance, Teacher.
+# princess: off
+# live2dposition: centre
+Your dedication is admirable. You’re ready for new challenges.
+ - # live2dposition: left
+Congratulations, {player_name}. You have mastered every lesson I’ve taught.
+# princess: left
+Thank you, sir. I'll never forget your guidance.
+ - # live2dposition: left
+You've mastered all the topics, {player_name}. Well done!
+# princess: left
+Thank you, Mr. Alador. I couldn't have done it without you.
+ - # live2dposition: left
+Congratulations, {player_name}! You now know everything I had to teach.
+# princess: left
+Thank you, teacher. This has been an incredible journey.
+# live2dposition: left
+It has, {player_name}. Now go forth and continue to grow.
+ - # live2dposition: left
+Every topic has been covered, {player_name}. You've truly excelled.
+# princess: left
+Your guidance made it possible. Thank you!
+ - # live2dposition: left
+{player_name}, you have mastered all our topics. I am proud of you.
+# princess: left
+Thank you, teacher. I'll cherish these lessons.
+ - # live2dposition: left
+There’s nothing more I can teach you, {player_name}. You've learned all the topics thoroughly.
+# princess: left
+I’ve learned so much from this class. Thank you for everything.
+ - # live2dposition: left
+{player_name}, you've learned everything I can offer you. It's time for your next adventure.
+# princess: left
+Thank you, sir. I will make you proud.
+# princess: off
+# live2dposition: centre
+I'm sure you will, {player_name}. Farewell and good luck.
+ - # live2dposition: left
+You've mastered all the topics, {player_name}. There's nothing more in this course you haven't conquered.
+# princess: left
+Thank you for all your teachings. I'll make good use of them.
+# live2dposition: left
+I have no doubt you will. Best of luck on your continued journey.
+ - # live2dposition: left
+{player_name}, you've learned all the topics I could teach.
+# princess: left
+Thank you so much, teacher. Your lessons were invaluable.
+ - # live2dposition: left
+{player_name}, you’ve learned everything I can teach you. How do you feel about continuing on your own?
+# princess: left
+I feel ready, Teacher. Thank you for everything.
+# princess: off
+# live2dposition: centre
+It was my pleasure to teach you, {player_name}. Best of luck!
+ - # princess: left
+So, this is it? There’s no more for me to learn?
+# live2dposition: left
+You’ve absorbed all I had to offer. Go forth and use your knowledge wisely, {player_name}.
+ - # live2dposition: left
+{player_name}, you've covered all the topics proficiently. Well done.
+# princess: left
+Thank you, Teacher. I enjoyed every lesson.
+# princess: off
+# live2dposition: centre
+Your dedication was evident. Always stay curious.
+ - # live2dposition: left
+{player_name}, your journey with me is complete. Seek out new horizons and knowledge.
+# princess: left
+Thank you for everything, teacher. I will use what I've learned greatly.
+# live2dposition: left
+I am proud of you, {player_name}. Go forward with confidence.
+ - # live2dposition: left
+You’ve mastered all the topics, {player_name}! It's time you forge your own path.
+# princess: left
+Thank you, teacher. I'll make good use of your teachings.
+# live2dposition: left
+You’ve fully grasped all topics, {player_name}. I'm out of knowledge for you.
+# princess: left
+Thank you for everything, teacher. I’m ready for the next chapter.
+ - # princess: left
+I've covered all the topics you taught.
+# princess: off
+# live2dposition: centre
+Excellent, {player_name}! You’re more than ready to apply your knowledge in the real world.
+ - # live2dposition: left
+Congratulations, {player_name}! You've excelled in all topics we've covered.
+# princess: left
+Thank you, sir! I'm so grateful for your teachings.
+# live2dposition: left
+The gratitude is mutual, {player_name}. Go make proud use of your knowledge.
+ - # live2dposition: left
+{player_name}, you've covered all the topics comprehensively. My job here is done.
+# princess: left
+Thank you, teacher. I am grateful for your guidance.
+ - # princess: left
+Teacher, I think I understand all the lessons now.
+# princess: off
+# live2dposition: centre
+Indeed, {player_name}. You've mastered the topics wonderfully. Well done!
+ - # live2dposition: left
+{player_name}, you’ve learned all the topics. What will you do next?
+# princess: left
+I plan to continue studying and applying these lessons in real life.
+ - # live2dposition: left
+{player_name}, you've grasped all the topics exceptionally well.
+# princess: left
+Thank you! Your teaching made it possible.
+# princess: off
+# live2dposition: centre
+I'm proud of you. It's time for you to seek new challenges.
+ - # live2dposition: left
+{player_name}, you have mastered every topic covered in this class.
+# princess: left
+Thank you, sir. I feel well-prepared for what's next.
+# live2dposition: left
+You are indeed, {player_name}. Go forth and shine bright.
+ - # princess: left
+Does this mean it’s time for me to move on?
+# princess: off
+# live2dposition: centre
+Yes, {player_name}. Your true journey begins now.
+ - # princess: left
+Thank you for everything, teacher. I feel ready for my next adventure.
+# live2dposition: left
+You’ve come so far, {player_name}. Go forth with confidence.
+# princess: left
+I’ve learned all the topics, teacher. What’s next?
+# live2dposition: left
+Time to apply your knowledge, {player_name}. Go out and explore.
+ - # live2dposition: left
+{player_name}, you've mastered all the topics we've covered. I'm proud of you.
+# princess: left
+Thank you so much, teacher! What happens now?
+# live2dposition: left
+Now, you take these lessons and apply them in the world. Your real journey begins.
+ - # princess: left
+Thank you, teacher. I’m eager to apply everything I’ve learned.
+# live2dposition: left
+I foresee a bright future for you, {player_name}. Embrace it with confidence.
+ - # live2dposition: left
+{player_name}, you now know all the topics. Congratulations!
+# princess: left
+Thank you, teacher. This knowledge is invaluable.
+ - # live2dposition: left
+{player_name}, you've mastered all the topics we covered.
+# princess: left
+I feel confident now. Thank you for everything.
+# princess: off
+# live2dposition: centre
+It was my pleasure to guide you.
+ - # live2dposition: left
+{player_name}, you've covered all the topics. I'm proud of your progress.
+# princess: left
+Thank you, teacher. I'll always remember your lessons.
+ - # live2dposition: left
+{player_name}, you've learned all I can teach. This chapter of your education concludes here.
+# princess: left
+I understand, Teacher. Thank you for everything.
+# live2dposition: left
+You're welcome, {player_name}. Go forth and apply your knowledge.
+ - # live2dposition: left
+{player_name}, you’ve mastered every topic we covered. It’s an honor to have taught you.
+# princess: left
+Thank you very much, sir. I owe my success to your guidance.
+ - # princess: left
+I can't believe I've learned all of it. Thank you for everything!
+# live2dposition: left
+It was my pleasure, {player_name}. You've done exceptionally well.
+ - # princess: left
+Sir, is there truly nothing more I can learn here?
+# live2dposition: left
+You’ve mastered everything, {player_name}. It's time for you to seek new horizons.
+# princess: left
+Is there nothing more I can learn now?
+# live2dposition: left
+Indeed, {player_name}, you’ve covered all the topics. It's time to forge your own path.
+ - # princess: left
+Thank you for everything, sir. I’ve learned so much.
+# live2dposition: left
+The pleasure is mine, {player_name}. Go forth with confidence and curiosity.
+ - # princess: left
+I've learned all the topics, teacher.
+# princess: off
+# live2dposition: centre
+Indeed, you have. It's time for you to apply them in the real world.
+ - # live2dposition: left
+{player_name}, you've mastered all the topics. You're ready to move forward.
+# princess: left
+I’m grateful, Teacher. This knowledge will benefit me greatly.
+ - # live2dposition: left
+{player_name}, you've mastered all the topics we've covered.
+# princess: left
+I couldn't have done it without your guidance.
+# live2dposition: left
+You've done brilliantly, {player_name}. Carry this knowledge with pride.
+ - # live2dposition: left
+You have mastered everything, {player_name}. Continue to use your knowledge wisely.
+# princess: left
+Thank you, sir. I've learned so much thanks to you.
+ - # live2dposition: left
+You have completed your lessons, {player_name}. You learned everything I could teach.
+# princess: left
+Thank you, Teacher. I feel ready to face any challenge!
+# princess: off
+# live2dposition: centre
+I'm very proud of you. Take care, {player_name}.
+ - # live2dposition: left
+You’ve grasped all the knowledge I can share, {player_name}. Proud of you.
+# princess: left
+Thank you, sir! I'll make sure to use it wisely.
+ - # live2dposition: left
+You've truly grasped every lesson I had to offer, {player_name}. Go forth and light the path with your newfound knowledge.
+# princess: left
+Thank you, teacher. I've learned so much from you. I'll make you proud.
+ - # live2dposition: left
+You've done well, {player_name}. There's no more I can teach you. Your journey of knowledge must now take you elsewhere.
+# princess: left
+Thank you, teacher. I will continue to grow and learn.
+# live2dposition: left
+Remember, knowledge is a lifelong pursuit. Keep your curiosity alive.
+ - # live2dposition: left
+{player_name}, you've mastered all the topics I had to offer. I’m proud of you.
+# princess: left
+Thank you, Teacher. You've been incredible.
+# princess: off
+# live2dposition: centre
+It’s been a privilege to guide you. Go forth and apply your knowledge.
+ - # princess: left
+I think I've learnt all I can from you.
+# princess: off
+# live2dposition: centre
+Indeed, {player_name}. You've surpassed all expectations. Go forth and use your knowledge well.
+ - # live2dposition: left
+{player_name}, you have mastered everything I've taught. You are truly remarkable.
+# princess: left
+Thank you, teacher. I am so grateful for your guidance.
+# live2dposition: left
+The pleasure was mine, {player_name}. Go forth and shine.
+ - # princess: left
+Thank you for everything, Teacher. I feel ready to take on the world now.
+# princess: off
+# live2dposition: centre
+It's been a pleasure teaching you, {player_name}. Go forth and shine!
+ - # live2dposition: left
+{player_name}, congratulations. You've learned every bit of what I can teach. It's time for you to venture forward now.
+# princess: left
+Thank you for everything, teacher. I won’t forget it.
+# live2dposition: left
+You’re welcome, {player_name}. Go out and make your mark on the world.
+ - # live2dposition: left
+{player_name}, you have absorbed all I have to offer. Well done indeed.
+# princess: left
+Thank you, teacher. I feel ready for the next step.
+# princess: off
+# live2dposition: centre
+You are ready, {player_name}. Go forth with confidence.
+ - # live2dposition: left
+{player_name}, your knowledge has flourished. You’re ready for the next chapter of your learning journey.
+# princess: left
+Thank you, sir. I couldn't have done it without your guidance.
+ - # live2dposition: left
+{player_name}, you've quite literally exceeded all expectations. There is nothing more I can teach you.
+# princess: left
+Thank you for everything, master. I’ve learned so much.
+# live2dposition: left
+It was my pleasure, {player_name}. Go forth and make the world a better place.
+}
+
+{ failure == 1 and random >= 0 and random <= 100:
+{ shuffle:
+ - You’ve learnt just a little, !name!. Try to focus more on the core concepts.
+ - You've made some progress, but it's not enough. We need more focus.
+ - You've only touched the surface of the knowledge, !name!.
+ - !name!, you’ve learned a bit, but there’s still a lot to cover.
+ - You've picked up only a small amount of what's been taught, !name!.
+ - You learned something, but there's much more you could have absorbed, !name!.
+ - It appears you’ve only scratched the surface, !name!. We need to revisit some topics.
+ - Progress was slow, but some understanding is better than none.
+ - You've picked up only a few things, !name!. I expected more engagement from you.
+ - You've made some progress, !name!, but only a little. Keep working at it.
+ - There's potential, !name!. You just need to apply yourself more.
+ - !name!, you need to put in more effort. You've learned very little.
+ - !name!, you've only scratched the surface. I expected better.
+ - !name!, your understanding is limited. Let’s put in more effort to overcome these hurdles.
+ - You’ve learned a bit, but I expected more progress, !name!.
+ - Maybe we should try different methods.
+ - !name!, you picked up a bit, but there's so much more to learn.
+ - !name!, you've grasped only a fraction of the lessons. We'll need to review more thoroughly.
+ - You've learned some, !name!, but there's much more work to do.
+ - You’ve picked up a little, !name!, but not as much as I had hoped.
+ - You've learned very little, !name!. Perhaps we need a different approach.
+ - Maybe this method isn't working for you. Let's try something else.
+ - There's a bit of progress, !name!, but not as much as expected. Keep trying.
+ - !name!, you've picked up a bit, but much more is needed to achieve mastery.
+ - Don't get disheartened, !name!. Even a small step forward is progress.
+ - !name!, you've learned very little. We need to focus on the basics again.
+ - You’ve learned very little, !name!. More focus and effort are needed.
+ - There's room for improvement, !name!. You’ve learned a bit, but I know you can do better.
+ - !name!, you have learned very little. We need to address this.
+ - !name!, you have learned very little. More effort is needed on your part.
+ - Progress is slow, but you're getting there. Keep at it, !name!.
+ - You've made some progress, but there's much more to learn, !name!.
+ - !name!, you’ve learned a bit, but there’s still much you’re missing. Focus is essential.
+ - !name!, you’ve learned a bit, but there's still much work to be done.
+ - !name!, you've learned a bit, but there is still much more work to be done.
+ - You’ve made some progress, !name!. However, I expected more. Let’s refine your approach.
+ - You've taken away only a small part of the knowledge, !name!. Let's try harder.
+ - There's only been minimal improvement, !name!. We need to focus more.
+ - Your progress is slow. Let's address where you're struggling.
+ - !name!, you've learned a little, but there's so much more to explore. Stay determined.
+ - !name!, you've managed to grasp only a little from these lessons.
+ - Let's focus on areas where you're struggling.
+ - !name!, there's a long way to go. The progress is slow, but we'll get there.
+ - You've made some progress, !name!, but there's much room for improvement.
+ - You've learned a bit, but there is still quite a journey ahead.
+ - You’ve picked up a few things here and there, !name!, but there's still a long way to go.
+ - It appears you have learned very little, !name!. Is there something you didn't understand?
+ - There's still much you need to grasp, !name!. Let’s keep working on it.
+ - !name!, you’ve learned very little. We need to delve deeper.
+ - Barely scratched the surface, !name!. We must try harder.
+ - I understand. I will put in more effort.
+ - # live2dposition: left
+Your progress is slow, {player_name}. We need to address whatever's holding you back.
+# princess: left
+I'll try harder, I promise.
+ - # princess: left
+I feel like I only scratched the surface.
+# live2dposition: left
+It takes time, {player_name}. Keep pushing forward, and you'll get there.
+ - # live2dposition: left
+{player_name}, your progress is minimal. We must find a new approach.
+# princess: left
+I'll put more effort into my studies, Teacher.
+# princess: off
+# live2dposition: centre
+That's the spirit. We’ll try again.
+ - # live2dposition: left
+You've gathered some basics, {player_name}, yet there's much more you need to understand.
+# princess: left
+I know, sir. I'll work harder.
+ - # live2dposition: left
+{player_name}, it appears you've learned very little from our sessions.
+# princess: left
+I'm sorry, Mr. Alador. I'll work harder.
+ - # live2dposition: left
+{player_name}, you’ve only scratched the surface. There’s so much more to discover.
+# princess: left
+Maybe I need a different approach.
+# live2dposition: left
+We’ll find the right method, don't worry.
+ - # live2dposition: left
+{player_name}, your progress is minimal. Let's work on areas where you struggled.
+# princess: left
+I know, I’ll try harder.
+ - # live2dposition: left
+{player_name}, we made minimal progress. Let's focus harder next time.
+# princess: left
+I agree. I'll try my best.
+ - # live2dposition: left
+{player_name}, your progress is minimal. We need to focus more.
+# princess: left
+Yes, teacher. I realize I need to put in more effort.
+ - # live2dposition: left
+You've learned something, but not as much as I'd hoped.
+# princess: left
+I'll try harder next time.
+# princess: off
+# live2dposition: centre
+I believe in you, {player_name}. Keep pushing forward.
+ - # live2dposition: left
+It's clear, {player_name}, we have more ground to cover. You've learned some, but it's not sufficient.
+# princess: left
+I'll work harder, I promise.
+# live2dposition: left
+I expect so. Progress requires dedication.
+ - # live2dposition: left
+{player_name}, your understanding is minimal.
+# princess: left
+I know, teacher. I'll push harder.
+ - # live2dposition: left
+{player_name}, your grasp of the material needs improvement. What is challenging you?
+# princess: left
+Some concepts are confusing, Teacher.
+# princess: off
+# live2dposition: centre
+Don't worry, {player_name}. We’ll work through them together.
+ - # live2dposition: left
+{player_name}, why do you think you’re progressing so slowly?
+# princess: left
+I guess I need more practice.
+# live2dposition: left
+Well, let's keep at it and see.
+ - # live2dposition: left
+{player_name}, you’ve only scratched the surface. Let’s dig deeper.
+# princess: left
+I understand, Teacher. I'll try harder.
+ - # live2dposition: left
+You need to engage more, {player_name}. You've picked up so little.
+# princess: left
+I know, teacher. It's just harder than I thought.
+# live2dposition: left
+Practice, {player_name}. With dedication, you'll understand more in time.
+ - # live2dposition: left
+{player_name}, your progress is minimal. Do you need additional support?
+# princess: left
+I think so. I’m finding some of the concepts hard to grasp.
+ - # princess: left
+I'm not sure I'm learning much, to be honest.
+# princess: off
+# live2dposition: centre
+I see, let's adjust our lessons to better suit your needs.
+ - # live2dposition: left
+{player_name}, while you've made some strides, there's still a long way to go.
+# princess: left
+I understand. I'll work harder, I promise.
+# live2dposition: left
+I believe in your potential, {player_name}. Persevere.
+ - # live2dposition: left
+{player_name}, you need to put in more effort. You're capable of more.
+# princess: left
+I'll try harder, sir. I know I can do better.
+# live2dposition: left
+I believe in you, {player_name}. Keep pushing forward.
+ - # live2dposition: left
+{player_name}, your grasp on the subject isn't strong. We need more effort.
+# princess: left
+I understand, I'll put in more work.
+ - # live2dposition: left
+{player_name}, your progress isn’t satisfactory. What’s been happening?
+# princess: left
+I'll try harder, Teacher. I promise.
+# princess: off
+# live2dposition: centre
+See that you do. I'm here to help you grow.
+ - # live2dposition: left
+There is still a long way to go.
+# princess: left
+I know, but I'm trying my best.
+ - # live2dposition: left
+{player_name}, your progress is minimal. Let's discuss how to improve.
+# princess: left
+I understand, sir. I will try harder.
+# princess: off
+# live2dposition: centre
+Let's focus on your weak areas more closely.
+ - # live2dposition: left
+{player_name}, your progress is sparse. You must focus more.
+# princess: left
+I will try harder, sir.
+# live2dposition: left
+See that you do, {player_name}. Only then will you improve.
+ - # princess: left
+I'm trying, but it's tough.
+# princess: off
+# live2dposition: centre
+Sometimes it is, but persistence will pay off, I promise.
+ - # princess: left
+I feel like I've only scratched the surface.
+# live2dposition: left
+That’s a start, {player_name}. Let’s build from there.
+ - # live2dposition: left
+{player_name}, your progress is slower than I'd hoped.
+# princess: left
+I’ll try harder, I promise.
+# live2dposition: left
+Good. I know you can do it if you apply yourself more.
+ - # princess: left
+I'll work harder, teacher. I promise.
+# live2dposition: left
+I know you will, {player_name}. Remember, persistence is key.
+ - # live2dposition: left
+{player_name}, what can we improve for you to understand better?
+# princess: left
+I think I need more examples to follow, teacher.
+ - # live2dposition: left
+{player_name}, you haven't progressed as much as I'd hoped. What's the issue?
+# princess: left
+I'm not sure, maybe I'm missing something.
+# princess: off
+# live2dposition: centre
+Let's find and fix that gap together.
+ - # live2dposition: left
+{player_name}, you picked up some basics, yet there's much we still need to cover.
+# princess: left
+I'll try harder next time, teacher.
+ - # live2dposition: left
+{player_name}, you seem to have learned only bits and pieces. What's holding you back?
+# princess: left
+I guess I need more practice, Teacher.
+# live2dposition: left
+Practice makes perfect. Keep trying.
+ - # live2dposition: left
+{player_name}, this is barely scratching the surface. We must dig deeper next time.
+# princess: left
+I'll try harder, sir. I promise to put in more effort.
+ - # princess: left
+I know I need to work harder. I’ll keep trying my best.
+# live2dposition: left
+That’s the spirit, {player_name}. Persistence is key.
+ - # princess: left
+I've only picked up a few things so far.
+# live2dposition: left
+Let's focus on reinforcing those concepts further, {player_name}.
+ - # princess: left
+I feel like I’m still missing a lot.
+# live2dposition: left
+Continue to persevere, {player_name}. Learning takes time.
+ - # princess: left
+I didn’t learn much this time, teacher.
+# princess: off
+# live2dposition: centre
+That's alright, {player_name}. Let's see how we can improve your understanding.
+ - # live2dposition: left
+You've learned a bit, {player_name}, but there's plenty more to cover.
+# princess: left
+I'll give it my all to improve.
+ - # live2dposition: left
+{player_name}, there's still much left to be learned. Don’t get disheartened.
+# princess: left
+I know, but it’s so much to take in.
+# live2dposition: left
+Take your time. Learning is a journey.
+}
+
+{ success == 1 and random >= 0 and random <= 100:
+{ shuffle:
+ - Good job, !name!. You've grasped some important points. Keep it up!
+ - Well done, !name!. You've learned something valuable today.
+ - You've picked up some useful insights, !name!.
+ - You’ve made progress, !name!. Keep up the effort.
+ - Good job, !name!. You've learned something useful today.
+ - Good work, !name!. You’ve learned the basics. Keep practicing and you'll achieve mastery.
+ - Good job, !name!! You've picked up some important points.
+ - Good, !name!. You've learned something valuable.
+ - You've learned something, !name!. That's a start. Keep pushing forward.
+ - You've made progress, !name!. It's a step in the right direction.
+ - Good work, !name!. You've learned quite a bit today.
+ - You're making progress, !name!. You've learned something today. Keep it up.
+ - Good job, !name!. You've picked up on some important points.
+ - !name!, you’ve made progress. There is still more to learn, but this is a good start.
+ - Good job, !name!. You've certainly learned some important lessons.
+ - Keep working hard, and you'll achieve even more.
+ - Good job, !name!. You’ve learned quite a bit today.
+ - You’ve made some progress, !name!. Keep at it, and you'll improve greatly.
+ - Good job, !name!. You've learned important points. Continue in this path.
+ - I can see you’ve learned a fair amount. Keep up the good work, !name!.
+ - Good job, !name!! You've learned quite a bit from our lessons.
+ - You're making steady progress. Keep up the good work.
+ - !name!, you've clearly grasped some of the concepts. Keep up the good work.
+ - Good, !name!. You've understood some concepts. Let's build on that.
+ - You're on the right track, !name!. Keep learning and exploring.
+ - Well done, !name!. You've managed to learn quite a bit.
+ - You’ve made some progress, !name!. Keep pushing forward and you’ll get there.
+ - Well done, !name!. You’ve grasped some important concepts. Keep pushing forward.
+ - !name!, you've made some progress. Keep at it.
+ - !name!, you have learned something from these lessons. Keep pushing forward.
+ - Good job, !name!. You're starting to get the hang of it.
+ - You've picked up some important concepts, !name!. Keep it up.
+ - !name!, you’ve grasped the basic concepts well. There is a spark of understanding in you.
+ - Good job, !name!. You're starting to understand the material. Keep at it!
+ - Good job, !name!! You’ve picked up some important points. Keep at it!
+ - You’re on the right track, !name!. Steady progress will get you far.
+ - You have grasped some concepts well, !name!. Keep at it.
+ - Good job, !name!. You've started to grasp the concepts.
+ - You're on the right path. Keep up the good work.
+ - !name!, you have learned something valuable today. Keep building on this foundation.
+ - !name!, you've learned something important in this class. Well done!
+ - Your efforts are paying off. Keep going.
+ - Good, !name!. You’ve learned something today, a step in the right direction.
+ - You've learned a fair bit, !name!. Keep practicing, and you'll get even better.
+ - You’ve made good progress, !name!. Keep up the effort.
+ - You’ve made some progress, !name!. There is still much to learn.
+ - Good job, !name!. You've learned something valuable today.
+ - Good job, !name!. You've picked up some valuable knowledge.
+ - Well done, !name!. You’ve learned something important today.
+ - Good progress, !name!. You’re on the right path.
+ - Thank you, teacher. Your guidance has been invaluable.
+ - # live2dposition: left
+Well done, {player_name}! You've absorbed quite a lot. How do you feel about your progress?
+# princess: left
+I feel confident! Thank you for your guidance.
+ - # princess: left
+I feel like I learned a lot today!
+# live2dposition: left
+That's great to hear, {player_name}. Keep up the good work.
+ - # live2dposition: left
+Impressive work, {player_name}. You've learned quite a lot!
+# princess: left
+Thank you, Teacher. I'm eager to learn more.
+# princess: off
+# live2dposition: centre
+Your enthusiasm will serve you well. Let’s keep going.
+ - # live2dposition: left
+Great improvement, {player_name}! You’re becoming quite skilled.
+# princess: left
+Thank you, sir! I’ve enjoyed learning.
+ - # live2dposition: left
+{player_name}, you've learned quite a lot. Keep up the good work.
+# princess: left
+Thank you, Mr. Alador. I'll keep studying hard!
+ - # live2dposition: left
+You’ve learned quite a lot, {player_name}. I'm impressed by your dedication.
+# princess: left
+Thank you! I'm doing my best.
+ - # live2dposition: left
+You picked up quite a lot today. Well done!
+# princess: left
+Thank you! I found it very interesting.
+ - # live2dposition: left
+{player_name}, you've absorbed quite a lot. Your effort shows. Excellent work!
+# princess: left
+Thank you, teacher. I'll continue doing my best.
+ - # princess: left
+I think I'm finally getting the hang of it.
+# live2dposition: left
+Indeed you are. You've absorbed quite a lot of the material.
+# princess: off
+# live2dposition: centre
+Excellent progress, {player_name}. Keep it up!
+ - # live2dposition: left
+Well done, {player_name}. You've grasped quite a lot from the lessons. You're on the right track.
+# princess: left
+Thank you, teacher. I'll continue to apply myself.
+# live2dposition: left
+That's the spirit. Keep your momentum going.
+ - # live2dposition: left
+{player_name}, you’ve made substantial progress!
+# princess: left
+Thank you, teacher! I've learned quite a lot.
+ - # live2dposition: left
+{player_name}, you’ve absorbed a great deal. How do you feel about the lessons?
+# princess: left
+I feel more confident, Teacher. Thank you for your guidance.
+# princess: off
+# live2dposition: centre
+Excellent, {player_name}! Keep it up.
+ - # live2dposition: left
+{player_name}, you’ve made fantastic progress!
+# princess: left
+Thank you! I’ve really enjoyed learning this.
+# live2dposition: left
+Your hard work is paying off!
+ - # live2dposition: left
+{player_name}, you’ve come a long way. Your effort is really showing.
+# princess: left
+Thanks, Teacher! I feel like I’m understanding more now.
+ - # live2dposition: left
+Impressive work, {player_name}! You've grasped a great deal. Keep going.
+# princess: left
+Thank you, teacher. I feel like I'm really getting it now.
+# live2dposition: left
+That's the spirit, {player_name}! Your dedication is paying off.
+ - # live2dposition: left
+{player_name}, your learning curve has been impressive. You’ve grasped quite a lot.
+# princess: left
+Thank you, teacher! I’ll continue to work hard.
+ - # princess: left
+Thank you, I feel like I'm learning a lot!
+# princess: off
+# live2dposition: centre
+That's fantastic, {player_name}! Your dedication is paying off.
+ - # live2dposition: left
+{player_name}, your understanding has grown significantly. It's evident in your work.
+# princess: left
+Thank you, I've really put my heart into this.
+# live2dposition: left
+And it shows, {player_name}. Well done.
+ - # live2dposition: left
+Impressive, {player_name}. You've learned much from these lessons.
+# princess: left
+Thank you, sir. Your teaching really helps me understand.
+# live2dposition: left
+I'm glad to hear that, {player_name}. You're doing excellently.
+ - # live2dposition: left
+{player_name}, your progress is solid. You've absorbed much of the material.
+# princess: left
+Thank you, teacher. I've been studying hard.
+ - # live2dposition: left
+You’re learning quite a lot, {player_name}. Keep up the good work!
+# princess: left
+Thanks, Teacher. I'm really enjoying the lessons.
+# princess: off
+# live2dposition: centre
+Your passion for learning is evident. I’m proud of you.
+ - # live2dposition: left
+{player_name}, you've covered a significant portion of the material. Great job!
+# princess: left
+Thank you, sir! I feel much more confident now.
+ - # live2dposition: left
+{player_name}, you've learned quite a lot! Well done.
+# princess: left
+Thank you, sir! I feel more confident.
+# princess: off
+# live2dposition: centre
+That's wonderful to hear. Keep up the good work!
+ - # live2dposition: left
+{player_name}, you have made commendable progress. I am proud of your efforts.
+# princess: left
+Thank you, sir. I have really enjoyed learning.
+# live2dposition: left
+And I have enjoyed teaching you, {player_name}. Well done.
+ - # princess: left
+I've learned so much this week, teacher!
+# princess: off
+# live2dposition: centre
+Fantastic, {player_name}! Your dedication is paying off.
+ - # princess: left
+I've learned quite a bit, thanks to you.
+# live2dposition: left
+I’m glad to hear that, {player_name}. Your efforts are paying off.
+ - # live2dposition: left
+{player_name}, your progress is impressive. You’ve learned quite a lot already!
+# princess: left
+Thank you, teacher. I really love learning these things.
+# live2dposition: left
+Your enthusiasm is your greatest strength, {player_name}. Keep nurturing it.
+ - # princess: left
+Thank you, teacher! I feel like I understand a lot more now.
+# live2dposition: left
+Well done, {player_name}. Your efforts are paying off. Keep studying!
+ - # live2dposition: left
+Impressive progress, {player_name}. Any questions?
+# princess: left
+Not at the moment. Thank you, teacher.
+ - # live2dposition: left
+{player_name}, you've learned quite a lot. I'm impressed.
+# princess: left
+Thank you! I enjoyed the lessons.
+# princess: off
+# live2dposition: centre
+Your dedication makes all the difference.
+ - # live2dposition: left
+{player_name}, you've grasped quite a lot! Keep nurturing that knowledge.
+# princess: left
+Thank you, teacher. Your guidance has been invaluable.
+ - # live2dposition: left
+{player_name}, you've learned quite a lot. I'm very pleased with your progress.
+# princess: left
+Thank you, Teacher! I really worked hard.
+# live2dposition: left
+Your hard work shows. Keep it up!
+ - # live2dposition: left
+{player_name}, you are progressing well. Keep up the good work and continue growing.
+# princess: left
+Thank you, sir. I feel more confident with every lesson.
+ - # princess: left
+I feel like I've learned so much!
+# live2dposition: left
+And you have, {player_name}! Your effort is paying off.
+ - # princess: left
+I feel I've learned quite a lot!
+# live2dposition: left
+Indeed, {player_name}. Your progress is commendable.
+ - # princess: left
+I think I've got a good understanding now.
+# live2dposition: left
+You certainly do, {player_name}. Let’s build on this foundation further.
+ - # princess: left
+I learned quite a lot in class today!
+# princess: off
+# live2dposition: centre
+Wonderful to hear, {player_name}! Keep up the good work!
+ - # live2dposition: left
+Impressive, {player_name}. You've absorbed quite a bit of this material.
+# princess: left
+Thanks, Teacher. I’ve really enjoyed the lessons.
+ - # live2dposition: left
+{player_name}, you’ve learned quite a lot. Keep this pace up.
+# princess: left
+Thank you, I’ll keep practicing!
+# live2dposition: left
+Excellent. Practice makes perfect, {player_name}.
+}
+
+{ totalfailurestress == 1 and random >= 0 and random <= 100:
+{ shuffle:
+ - I apologize, teacher. I'll focus better.
+ - It's just a lot to handle right now. I'll manage, though.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is everything alright?
+# princess: left
+I'm sorry, I just can't focus right now.
+ - # princess: left
+I can't seem to focus today, sir.
+# live2dposition: left
+It's okay, {player_name}. Let's try again when you're ready.
+ - # princess: left
+I'm sorry, Teacher. My mind is elsewhere today.
+# princess: off
+# live2dposition: centre
+It happens. Take a moment to refocus. We'll continue when you're ready.
+ - # live2dposition: left
+{player_name}, you appear distracted. Where is your focus today?
+# princess: left
+I'm sorry, sir. My thoughts are elsewhere.
+ - # live2dposition: left
+{player_name}, you're distracted. Please focus on the lesson.
+# princess: left
+I'll try, Mr. Alador. It's been a tough day.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is something troubling you?
+# princess: left
+I’m sorry, I just can’t focus right now.
+# live2dposition: left
+It’s important to be present. Let’s try to center ourselves.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is something bothering you?
+# princess: left
+I’m sorry, my mind is elsewhere.
+ - # princess: left
+Sorry, teacher, I was thinking about something else.
+# live2dposition: left
+It’s crucial to stay focused, {player_name}. Let's refocus our energy.
+ - # live2dposition: left
+{player_name}, you seem distracted. Is something on your mind?
+# princess: left
+Sorry, teacher. I just have a lot going on right now.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is everything alright?
+# princess: left
+I'm sorry, sir. I just can't focus.
+# princess: off
+# live2dposition: centre
+Take a moment to gather your thoughts. We can continue when you're ready.
+ - # live2dposition: left
+{player_name}, your mind seems elsewhere today. What's distracting you?
+# princess: left
+I'm sorry, teacher. I'll try to focus more.
+# live2dposition: left
+Please do. Concentration is key to learning.
+ - # live2dposition: left
+{player_name}, you appear distracted.
+# princess: left
+I apologize, teacher. My mind wandered off.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is everything alright?
+# princess: left
+I’m just finding it hard to focus, Teacher.
+# princess: off
+# live2dposition: centre
+Take a deep breath, {player_name}. Clear your mind before we continue.
+ - # princess: left
+I’m sorry, I can’t seem to focus today.
+# live2dposition: left
+It’s okay, {player_name}. Everyone has off days. Take a moment to gather your thoughts.
+ - # live2dposition: left
+{player_name}, you appear distracted today. Is everything alright?
+# princess: left
+Sorry, Teacher. My mind is elsewhere.
+# princess: off
+# live2dposition: centre
+Try to focus. These lessons are important.
+ - # princess: left
+Sorry, teacher, my mind is elsewhere today.
+# live2dposition: left
+Focus is key to learning, {player_name}. Try to center your thoughts.
+ - # live2dposition: left
+{player_name}, I need your focus. Is something distracting you?
+# princess: left
+I’m sorry, teacher. My mind is elsewhere today.
+ - # princess: left
+Sorry, I was just lost in thought.
+# princess: off
+# live2dposition: centre
+It’s alright, {player_name}. Let’s refocus and get back on track.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is everything alright?
+# princess: left
+I'm sorry, there's just a lot on my mind.
+# live2dposition: left
+Focus can be challenging. Let's take a moment to clear your thoughts.
+ - # live2dposition: left
+{player_name}, you seem distracted. Is everything alright?
+# princess: left
+Just a lot on my mind, sir. I'll try to focus more.
+# live2dposition: left
+Understandable, {player_name}. Take a deep breath and let's continue.
+ - # live2dposition: left
+{player_name}, your mind seems elsewhere. Can we focus, please?
+# princess: left
+Sorry, teacher. I'll try to concentrate better.
+ - # live2dposition: left
+{player_name}, your attention seems to wander. Is something on your mind?
+# princess: left
+Yes, sorry about that. I'll try to concentrate now.
+# princess: off
+# live2dposition: centre
+Please do. Focus is key to learning.
+ - # live2dposition: left
+{player_name}, you're distracted today. What's on your mind?
+# princess: left
+Apologies, sir. I have a lot weighing on me lately.
+ - # live2dposition: left
+{player_name}, you seem very distracted today.
+# princess: left
+I'm sorry, sir. There's a lot on my mind.
+# princess: off
+# live2dposition: centre
+Take a moment to clear your head. We need your focus here.
+ - # live2dposition: left
+{player_name}, you appear distracted today. Is there something you'd like to share?
+# princess: left
+I'm sorry, sir. I have a lot on my mind.
+# live2dposition: left
+I understand, {player_name}. Try to center yourself and concentrate on the lesson.
+ - # live2dposition: left
+{player_name}, you're not focusing. Is something on your mind?
+# princess: left
+Sorry, teacher. I just can't concentrate today.
+# princess: off
+# live2dposition: centre
+Take a few moments. Clear your mind, then we’ll continue.
+ - # princess: left
+Sorry, I can't focus today.
+# live2dposition: left
+It happens, {player_name}. Take a deep breath and we'll try again.
+ - # live2dposition: left
+{player_name}, you seem distracted today. Is there something on your mind?
+# princess: left
+Sorry, teacher. I have a lot going on at home.
+# live2dposition: left
+Take a deep breath. Let’s focus on the lesson for now.
+ - # princess: left
+Sorry, teacher. My mind is elsewhere today.
+# live2dposition: left
+I understand, {player_name}. Try to focus; this material is important for your growth.
+ - # live2dposition: left
+{player_name}, your mind seems elsewhere. What’s distracting you?
+# princess: left
+It's hard to concentrate with everything going on outside.
+ - # live2dposition: left
+{player_name}, you've been distracted lately. Is something bothering you?
+# princess: left
+Sorry, I just can't seem to focus today.
+# princess: off
+# live2dposition: centre
+Let's take a moment to clear your mind.
+ - # princess: left
+I'm sorry, I can't seem to focus today.
+# live2dposition: left
+It's alright, {player_name}. Sometimes our minds wander. Let's take a short break and try again.
+ - # live2dposition: left
+{player_name}, you're distracted today. What seems to be on your mind?
+# princess: left
+I'm sorry, Teacher. There are just too many thoughts running through my head.
+# live2dposition: left
+It's important to focus. Try to clear your mind and concentrate on the lesson.
+ - # live2dposition: left
+{player_name}, your mind seems elsewhere. Focus is key to learning.
+# princess: left
+Apologies, sir. I'll try harder to pay attention.
+ - # live2dposition: left
+{player_name}, you seem a bit distracted today. Is everything alright?
+# princess: left
+I'm sorry. My mind is just somewhere else right now.
+ - # princess: left
+I’m sorry, I can’t focus today.
+# live2dposition: left
+Take a deep breath, {player_name}. Sometimes, a clear mind helps more than anything.
+ - # princess: left
+Sorry, I got a bit lost.
+# live2dposition: left
+Focus, {player_name}. Every moment here is an opportunity to learn.
+ - # princess: left
+Sorry, I'm a bit distracted today.
+# princess: off
+# live2dposition: centre
+It's alright, {player_name}. Let's see if we can focus your mind on the lesson.
+ - # live2dposition: left
+{player_name}, your mind seems elsewhere. Can you focus on the lesson?
+# princess: left
+Sorry, Teacher. I'll try to concentrate harder.
+ - # princess: left
+Sorry, I got distracted.
+# live2dposition: left
+Focus, {player_name}. Distraction is the enemy of progress.
+ - # live2dposition: left
+You look stressed, {player_name}. Take a deep breath. Learning should be enjoyable.
+# princess: left
+I know, it's just a lot to take in all at once.
+ - # princess: left
+I'm so stressed with everything going on.
+# live2dposition: left
+Take a deep breath, {player_name}. We'll get through this together.
+ - # princess: left
+This is overwhelming, Teacher. I feel too stressed to keep up.
+# princess: off
+# live2dposition: centre
+Take a deep breath, {player_name}. We’ll go at your pace. No need to rush.
+ - # live2dposition: left
+You seem overwhelmed, {player_name}. Are you under too much stress lately?
+# princess: left
+Yes, sir. It’s been tough handling everything at once.
+ - # live2dposition: left
+{player_name}, you seem stressed. Is there anything you'd like to talk about?
+# princess: left
+I have a lot on my plate, Mr. Alador. I'm sorry if it's affecting my studies.
+ - # live2dposition: left
+You look stressed, {player_name}. What’s on your mind?
+# princess: left
+There's just so much to keep up with, I feel overwhelmed.
+# live2dposition: left
+Take a deep breath. We can slow down if needed.
+ - # live2dposition: left
+{player_name}, you appear stressed. Take a deep breath and let’s work through it together.
+# princess: left
+I’m feeling overwhelmed. There's just so much to handle.
+ - # princess: left
+This is really stressing me out, teacher.
+# live2dposition: left
+Take a deep breath, {player_name}. Stress won't help you learn.
+ - # live2dposition: left
+{player_name}, you seem stressed. Is everything all right?
+# princess: left
+I’m overwhelmed, teacher. There's so much to handle.
+ - # live2dposition: left
+{player_name}, you appear stressed. Is the workload too much?
+# princess: left
+It's just... everything feels overwhelming right now.
+# princess: off
+# live2dposition: centre
+Let's take it one step at a time. We'll get through this together.
+ - # live2dposition: left
+You seem stressed, {player_name}. Is something bothering you?
+# princess: left
+Yes, there's a lot on my mind lately.
+# live2dposition: left
+Take a deep breath. Sometimes a clear mind is needed before tackling new knowledge.
+ - # live2dposition: left
+{player_name}, you seem stressed. Is everything alright?
+# princess: left
+I'm just overwhelmed, teacher. There's a lot on my mind.
+ - # live2dposition: left
+{player_name}, you look stressed. Would you like to talk about it?
+# princess: left
+There’s a lot going on, Teacher. It's overwhelming.
+# princess: off
+# live2dposition: centre
+It’s important to take care of yourself, {player_name}. Let’s ease into today’s lesson.
+ - # princess: left
+This is so overwhelming; I don’t know where to start.
+# live2dposition: left
+Take a deep breath, {player_name}. We’ll break it down, step by step. You can do this.
+ - # live2dposition: left
+{player_name}, you look stressed. Is there something you'd like to talk about?
+# princess: left
+This class is overwhelming, Teacher.
+# princess: off
+# live2dposition: centre
+Take a deep breath. Let's break it down into manageable steps.
+ - # live2dposition: left
+{player_name}, I see you're stressed. Take a breath. Learning needs a calm mind.
+# princess: left
+I’m overwhelmed, teacher. There’s too much going on.
+# live2dposition: left
+You can handle this, {player_name}. One step at a time.
+ - # live2dposition: left
+{player_name}, you look stressed. Is there something bothering you?
+# princess: left
+Yes, teacher. There’s so much on my mind right now.
+ - # princess: left
+I’m a bit stressed with everything going on.
+# princess: off
+# live2dposition: centre
+Take a deep breath, {player_name}. We can take it one step at a time.
+ - # live2dposition: left
+{player_name}, I can sense your stress. It's affecting your learning.
+# princess: left
+I'm struggling to manage everything right now.
+# live2dposition: left
+Take a deep breath. We'll find a way to approach this together.
+ - # live2dposition: left
+{player_name}, you look stressed. Would a break help you clear your mind?
+# princess: left
+I'm just overwhelmed, sir. Balancing everything is tough.
+# live2dposition: left
+Take your time, {player_name}. It's important to balance study with rest.
+ - # live2dposition: left
+{player_name}, you seem stressed. Is everything alright?
+# princess: left
+It's just been a tough week, sir. I'll manage.
+ - # live2dposition: left
+{player_name}, you look stressed. Is everything alright?
+# princess: left
+I'm feeling overwhelmed with all the things I need to learn.
+# princess: off
+# live2dposition: centre
+Take it one step at a time. We’re here to learn, not to stress.
+ - # live2dposition: left
+{player_name}, you look stressed. Are you feeling overwhelmed?
+# princess: left
+Yes, the workload is getting to me. It's hard to keep up.
+ - # live2dposition: left
+{player_name}, you look stressed. Is everything alright?
+# princess: left
+I'm just overwhelmed with everything, sir.
+# princess: off
+# live2dposition: centre
+Let's take a break and discuss how to manage your workload better.
+ - # live2dposition: left
+{player_name}, you look stressed. Is everything alright?
+# princess: left
+It's been a tough day, sir.
+# live2dposition: left
+Take a deep breath, {player_name}. We'll get through this together.
+ - # live2dposition: left
+You look stressed, {player_name}. Are the lessons too intense?
+# princess: left
+It's just… a lot. I'm struggling to keep up.
+# princess: off
+# live2dposition: centre
+Remember to breathe. We can go at a pace that suits you.
+ - # princess: left
+I'm really stressed. This is too much.
+# live2dposition: left
+Take a moment, {player_name}. We can break it down into smaller, manageable steps.
+ - # live2dposition: left
+{player_name}, you look stressed. Is everything alright?
+# princess: left
+I’m just overwhelmed with everything, teacher.
+# live2dposition: left
+Take it one step at a time, {player_name}. We'll work through this together.
+ - # princess: left
+I'm so stressed about everything, teacher!
+# live2dposition: left
+Take a deep breath, {player_name}. Stress clouds the mind. Let’s work through it together.
+ - # live2dposition: left
+{player_name}, you seem stressed. Is something troubling you?
+# princess: left
+I’m overwhelmed with everything I need to learn, teacher.
+ - # live2dposition: left
+{player_name}, you seem stressed. Is there something you want to talk about?
+# princess: left
+I'm just overwhelmed with everything right now.
+# princess: off
+# live2dposition: centre
+Take a deep breath. We'll handle this one step at a time.
+ - # princess: left
+I'm really stressed, teacher. It's hard to concentrate.
+# live2dposition: left
+I understand, {player_name}. Let's take it one step at a time. If you need a moment, just let me know.
+ - # live2dposition: left
+{player_name}, you appear stressed. Learning should not be a burden.
+# princess: left
+I know, Teacher, but I'm struggling to keep up.
+# live2dposition: left
+Take it one step at a time. We will work through it together.
+ - # live2dposition: left
+{player_name}, you seem stressed. Remember, learning should be a joy, not a burden.
+# princess: left
+I understand, sir. It’s just a lot to take in right now.
+ - # live2dposition: left
+{player_name}, you seem stressed. Do you need a break?
+# princess: left
+I think I do. There's just so much going on.
+ - # princess: left
+I’m feeling so stressed. It's hard to concentrate.
+# live2dposition: left
+Remember, {player_name}, self-care is part of learning too. Take a moment to relax.
+ - # princess: left
+I'm feeling overwhelmed.
+# live2dposition: left
+Take a deep breath, {player_name}. We can work through this together.
+ - # princess: left
+I'm feeling really stressed, teacher.
+# princess: off
+# live2dposition: centre
+Take a deep breath, {player_name}. We'll take it one step at a time.
+ - # live2dposition: left
+{player_name}, you look stressed. Perhaps we should pause and talk about what's troubling you.
+# princess: left
+It's just been a tough day. I’ll do my best to follow along.
+ - # princess: left
+I’m just so stressed, teacher.
+# live2dposition: left
+Take a deep breath, {player_name}. We’ll get through this together.
+}
+
+=== notpaid ===
+{ days == 0 and random >= 0 and random <= 100:
+{ shuffle:
+ - This is unacceptable, !name!! Knowledge isn't free. Come back when you can afford the classes.
+ - It's unacceptable, !name!! Without payment, our arrangement ends here.
+ - This is disappointing, !name!. If you can't pay, I can't teach!
+ - It's disappointing you cannot pay, !name!. I'm afraid we must part ways.
+ - It's irresponsible to expect free lessons, !name!. I can't run my class without support.
+ - This is unacceptable, !name!! You must uphold your part of the agreement. No payment, no lessons!
+ - Such disrespect will not be tolerated in my class!
+ - !name!, this is unacceptable. Without payment, our lessons must end immediately.
+ - !name!, this is unacceptable. You must understand I cannot teach without compensation!
+ - You cannot expect to gain wisdom for free. Our agreement was clear, and responsibility falls upon you.
+ - If you can't pay, don't expect me to work for free. This is not a charity.
+ - Don't waste my time, !name!. Come back when you can afford the lessons.
+ - This is preposterous, !name!! How do you expect to learn without compensating for my time? You need to pay up or leave!
+ - !name!, this is unacceptable! If you can't pay, I can't teach.
+ - How dare you come without payment, !name!! My teachings are not free. Leave at once.
+ - You can't expect to learn for free, !name!! This is not a charity.
+ - If you don't pay, you can't stay in the class. Simple as that.
+ - !name!, this is unacceptable. I cannot teach for free. Please settle your dues or stop attending.
+ - How dare you expect free education, !name!? Come back when you have the means.
+ - This is unacceptable, !name!! Knowledge has a price, and you have to pay it.
+ - !name!, this is disappointing. I can't sustain these lessons without your payment.
+ - !name!, this is unacceptable. You can't expect to attend without paying.
+ - You must understand, !name!, that I have my own expenses. No payment, no lessons.
+ - !name!, I am deeply disappointed. You should have informed me earlier about your inability to pay.
+ - This is unacceptable, !name!. I cannot teach you without payment. Come back when you can pay.
+ - You've wasted my time, !name!. Don't return until you can afford the fees.
+ - !name!, this isn't a charity. Payment is necessary for me to continue.
+ - Do you think my time and knowledge come free, !name!? Without payment, our lessons must end immediately.
+ - This is unacceptable, !name!! You knew there would be costs involved. I cannot continue if you do not pay.
+ - This is unacceptable, !name!. Without payment, there will be no more lessons.
+ - !name!, this is unacceptable. I cannot teach you without compensation. Please do not ask again.
+ - You've been wasting my time. If you can’t pay, don't bother coming back.
+ - How dare you expect free lessons after all this time! This is unacceptable, !name!.
+ - !name!, this is unacceptable. I cannot continue to teach you for free. You must understand the value of my time.
+ - !name!, I can't teach you for free. It's unfair to take advantage of my time and skills like this.
+ - This is unacceptable, !name!. You must understand that my time and knowledge are valuable.
+ - Without payment, you cannot expect me to continue this arrangement. It is unfair to me.
+ - You've wasted my time, !name!. Pay up or leave my classroom!
+ - !name!, this isn't a charity! If you can't pay, you can't stay.
+ - I can't afford to teach you for free. Good day!
+ - !name!, this is unacceptable! I cannot teach you for free. My time and knowledge are valuable!
+ - !name!, this is unacceptable. How do you expect me to continue teaching you without proper payment?
+ - I cannot continue like this. You need to find another way.
+ - !name!, this is unacceptable! I cannot continue teaching you for free. You must find a way to pay.
+ - This isn’t charity, !name!. If you can't pay, I can't teach. That's the end of it.
+ - This is unacceptable, !name!! No payment means no more lessons, I have my own expenses.
+ - This is unacceptable, !name!! You know the terms. Without payment, we cannot proceed.
+ - This is unacceptable, !name!. If you can't pay, you can't stay. End of discussion.
+ - This is unacceptable, !name!. No payment, no lessons. It's as simple as that.
+ - !name!, this is unacceptable. Lessons are not free. Return with payment or not at all.
+ - This is the last straw, !name!. I can't continue teaching you for free. Pay up or leave.
+}
+
+{ days > 0 and random >= 0 and random <= 100:
+{ shuffle:
+ - I'm afraid I can't continue without payment, !name!. Perhaps you can find another way.
+ - !name!, without payment, I cannot continue our lessons. I hope you find a way to continue your studies.
+ - I'm sorry, !name!. I can't continue the lessons without payment.
+ - I understand times are tough, but I cannot continue without payment, !name!.
+ - I'm afraid I can't continue offering you lessons without payment, !name!.
+ - I'm sorry, !name!. We cannot continue without payment. These lessons are vital for both of us.
+ - Perhaps you can return when you have the means?
+ - I'm sorry, !name!, but without payment, we cannot continue our sessions.
+ - I'm sorry, !name!. Without payment, I cannot continue our lessons.
+ - I'm sorry, !name!. These lessons come at a cost, and I cannot continue teaching without compensation.
+ - I'm sorry, !name!, but without payment, I can't continue teaching you.
+ - I wish it were different, !name!, but I have my own expenses to cover.
+ - I'm sorry, !name!, but without payment, I can't continue our lessons. I wish you the best.
+ - I'm afraid I can no longer continue our lessons, !name!, without payment.
+ - I'm sorry, !name!, but I must be compensated for my time. We cannot continue without payment.
+ - I'm sorry, !name!. We cannot continue unless the fee is paid on time.
+ - I hope you understand; I have to make a living too.
+ - !name!, I'm afraid I can't continue these lessons without payment. I'm sorry.
+ - I'm sorry, !name!, but I cannot continue your lessons without payment.
+ - Education isn't free, !name!. Return when you can afford the class fee.
+ - I'm sorry, !name!, but without your continued payment, I can’t continue the lessons.
+ - I'm sorry, !name!, but I can't continue the lessons without payment.
+ - As much as I wish to, I can't afford to teach you for free.
+ - I am sorry, !name!, but without payment, I cannot continue the lessons.
+ - I'm afraid without payment, I cannot continue our lessons, !name!.
+ - The costs must be met, !name!, if you wish to continue learning.
+ - !name!, I'm afraid I cannot continue without the tuition fees.
+ - I understand times are tough, !name!, but I do need to sustain myself. I'm afraid I cannot continue without payment.
+ - I'm sorry, !name!, but I cannot continue teaching you without payment. It's a difficult decision, but necessary.
+ - I'm sorry, !name!, but without payment, I can't continue the lessons.
+ - I'm afraid I cannot continue without payment, !name!. Should your circumstances change, my door will always be open.
+ - I’m afraid we cannot continue unless you can pay for the classes, !name!.
+ - I'm afraid I can't continue lessons without payment, !name!. I'm sorry.
+ - !name!, I'm sorry, but I can’t continue teaching without compensation. It's just the way things have to be.
+ - I'm sorry, !name!, but I can't continue your lessons without payment. I truly wish I could help.
+ - I understand times are tough, !name!. However, without payment, I can't continue the sessions.
+ - I'm sorry, but I need to livelihood too, and I cannot teach for free.
+ - I'm sorry, !name!, but I can't continue the lessons without payment.
+ - I'm afraid I can't continue our lessons without payment, !name!. I'm truly sorry.
+ - Please understand, I have my own needs to meet. Best of luck.
+ - !name!, I'm sorry, but I cannot continue to teach you without payment. It's a matter of livelihood.
+ - Unfortunately, !name!, I can no longer keep you on without payment. I'm sorry.
+ - I wish the situation were different. Perhaps you can return someday.
+ - I’m sorry, !name!, but I must be compensated for my time to continue our lessons.
+ - I'm sorry, !name!, but I can't continue the lessons without payment. I hope you understand.
+ - I'm sorry, !name!. Without payment, I cannot continue our lessons.
+ - I'm sorry, !name!, but I cannot continue teaching you without payment. I hope you understand.
+ - !name!, if you cannot pay for the class, I cannot continue to teach you. I'm sorry.
+ - !name!, without payment, I cannot continue our lessons. I'm sorry.
+ - I'm afraid I can't continue your lessons without payment, !name!. Please come back when you're able.
+ - It's unfortunate, !name!, but I have to maintain my livelihood. Do return when you can pay.
+}
+
+-> END
+

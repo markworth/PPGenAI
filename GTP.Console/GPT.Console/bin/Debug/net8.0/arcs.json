@@ -1,0 +1,90 @@
+[
+{
+    "name": "Restoring an Ancient Herb Garden",
+    "steps": [
+        {
+            "step": "She discovers an old journal detailing the location of an overgrown herb garden filled with rare plants needed for potent potions.",
+            "location": "Masan village apothecary"
+        },
+        {
+            "step": "She quietly gathers supplies, using her knowledge to identify the plants while avoiding suspicion.",
+            "location": "Masan village outskirts"
+        },
+        {
+            "step": "Guided by the journal, she cautiously ventures into the overgrown garden and starts to clear it, though her efforts are slow due to inexperience.",
+            "location": "Old herb garden, Masan"
+        },
+        {
+            "step": "She encounters a wild creature guarding the garden and uses a basic but effective spell to calm and befriend it.",
+            "location": "Old herb garden, Masan"
+        },
+        {
+            "step": "She manages to restore a small section of the garden, improving the apothecary's stock and gaining confidence in her abilities.",
+            "location": "Old herb garden, Masan"
+        }
+    ]
+},
+{
+    "name": "Helping with Farmers’ Crops",
+    "steps": [
+        {
+            "step": "She uses her botanical knowledge to identify why the local crops are failing.",
+            "location": "Masan farmland"
+        },
+        {
+            "step": "She experiments with small magical interventions to aid the soil.",
+            "location": "Masan farmland"
+        },
+        {
+            "step": "She faces skepticism from local farmers but manages to show initial positive effects.",
+            "location": "Masan village square"
+        },
+        {
+            "step": "She successfully helps rejuvenate the fields, earning the trust of farmers and boosting food supplies.",
+            "location": "Masan farmland"
+        }
+    ]
+},
+{
+    "name": "Communicating with an Ancient Spirit",
+    "steps": [
+        {
+            "step": "She senses a lingering ancient spirit and decides to try communicating with it.",
+            "location": "Masan village graveyard"
+        },
+        {
+            "step": "She studies the lore of spirit communications and prepares herself.",
+            "location": "Masan village apothecary"
+        },
+        {
+            "step": "Initially scared, she makes a successful connection with the spirit and learns crucial history about the village.",
+            "location": "Masan village graveyard"
+        },
+        {
+            "step": "The spirit helps uncover forgotten protective wards, safeguarding the village.",
+            "location": "Masan village outskirts"
+        }
+    ]
+},
+{
+    "name": "Winning a Village Contest",
+    "steps": [
+        {
+            "step": "She learns of an upcoming village contest that rewards magical prowess.",
+            "location": "Masan village square"
+        },
+        {
+            "step": "She secretly prepares for the contest, developing small yet powerful spells.",
+            "location": "Eldenwood family home, Masan"
+        },
+        {
+            "step": "Despite her fears, she enters and performs well, showcasing her talents.",
+            "location": "Masan village square"
+        },
+        {
+            "step": "She wins second place, gaining recognition and boosting her confidence.",
+            "location": "Masan village square"
+        }
+    ]
+}
+]

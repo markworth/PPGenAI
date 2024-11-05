@@ -1,0 +1,13 @@
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\bin\Release\net8.0\GPT.deps.json
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\bin\Release\net8.0\GPT.dll
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\bin\Release\net8.0\GPT.pdb
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.csproj.AssemblyReference.cache
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.AssemblyInfoInputs.cache
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.AssemblyInfo.cs
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.csproj.CoreCompileInputs.cache
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.sourcelink.json
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.dll
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\refint\GPT.dll
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\GPT.pdb
+C:\Dev\team-23-prototypes\TolleyThisAI\Core\obj\Release\net8.0\ref\GPT.dll

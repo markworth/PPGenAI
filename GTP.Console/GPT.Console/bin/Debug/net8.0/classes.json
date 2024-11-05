@@ -1,0 +1,866 @@
+{
+    "art": [
+      {
+        "name": "Basic Shapes",
+        "level": 1
+      },
+      {
+        "name": "Portraits",
+        "level": 1
+      },
+      {
+        "name": "Form and composition",
+        "level": 2
+      },
+      {
+        "name": "Landscapes",
+        "level": 2
+      },
+      {
+        "name": "Perspective",
+        "level": 3
+      },
+      {
+        "name": "Networking",
+        "level": 4
+      }
+    ],
+    "lady": [
+      {
+        "name": "Learn to write",
+        "level": 1
+      },
+      {
+        "name": "How to curtsy",
+        "level": 1
+      },
+      {
+        "name": "Music appreciation",
+        "level": 1
+      },
+      {
+        "name": "Horse riding",
+        "level": 1
+      },
+      {
+        "name": "Piano lessons",
+        "level": 2
+      },
+      {
+        "name": "Flower arranging",
+        "level": 2
+      },
+      {
+        "name": "Dinner etiquette",
+        "level": 2
+      },
+      {
+        "name": "Charm school",
+        "level": 2
+      },
+      {
+        "name": "Caligraphy",
+        "level": 2
+      },
+      {
+        "name": "Harp lessons",
+        "level": 3
+      },
+      {
+        "name": "Conversation skills",
+        "level": 3
+      },
+      {
+        "name": "Public speaking",
+        "level": 3
+      },
+      {
+        "name": "Politics",
+        "level": 3
+      },
+      {
+        "name": "Conflict resolution",
+        "level": 4
+      },
+      {
+        "name": "Becoming a Lady",
+        "level": 4
+      },
+      {
+        "name": "Networking",
+        "level": 4
+      },
+      {
+        "name": "Royal court politics",
+        "level": 5
+      }
+    ],
+    "showbiz": [
+      {
+        "name": "Learn lines",
+        "level": 1
+      },
+      {
+        "name": "Music appreciation",
+        "level": 1
+      },
+      {
+        "name": "Learn to waltz",
+        "level": 1
+      },
+      {
+        "name": "Piano lessons",
+        "level": 2
+      },
+      {
+        "name": "Singing",
+        "level": 2
+      },
+      {
+        "name": "Acting",
+        "level": 2
+      },
+      {
+        "name": "Finding your rhythm",
+        "level": 2
+      },
+      {
+        "name": "Limericks and Haiku",
+        "level": 2
+      },
+      {
+        "name": "Comedy",
+        "level": 3
+      },
+      {
+        "name": "Music theory",
+        "level": 3
+      },
+      {
+        "name": "Voice training",
+        "level": 3
+      },
+      {
+        "name": "Storytelling",
+        "level": 4
+      },
+      {
+        "name": "Improvisation",
+        "level": 4
+      },
+      {
+        "name": "Audition techniques",
+        "level": 4
+      },
+      {
+        "name": "Musical composition",
+        "level": 5
+      },
+      {
+        "name": "Playwriting",
+        "level": 5
+      },
+      {
+        "name": "Directing",
+        "level": 6
+      }
+    ],
+
+    "combat": [
+      {
+        "name": "Basic marksmanship",
+        "level": 1
+      },
+      {
+        "name": "Fighting Stance",
+        "level": 1
+      },
+      {
+        "name": "Wrestling",
+        "level": 1
+      },
+      {
+        "name": "Dummy Training",
+        "level": 1
+      },
+      {
+        "name": "Knife fighting",
+        "level": 1
+      },
+      {
+        "name": "Armour maintenance",
+        "level": 1
+      },
+      {
+        "name": "Sword fighting",
+        "level": 2
+      },
+      {
+        "name": "Archery",
+        "level": 2
+      },
+      {
+        "name": "Boxing",
+        "level": 2
+      },
+      {
+        "name": "Martial arts",
+        "level": 2
+      },
+      {
+        "name": "Shielding",
+        "level": 2
+      },
+      {
+        "name": "Code of conduct",
+        "level": 2
+      },
+      {
+        "name": "Navigation by stars",
+        "level": 2
+      },
+      {
+        "name": "Keeping to the shadows",
+        "level": 3
+      },
+      {
+        "name": "Swordsmanship",
+        "level": 3
+      },
+      {
+        "name": "How to disarm",
+        "level": 3
+      },
+      {
+        "name": "Becoming a knight",
+        "level": 3
+      },
+      {
+        "name": "Leadership",
+        "level": 3
+      },
+      {
+        "name": "Crossbow profiency",
+        "level": 3
+      },
+      {
+        "name": "Camoflague",
+        "level": 4
+      },
+      {
+        "name": "Fencing",
+        "level": 4
+      },
+      {
+        "name": "Battle formations",
+        "level": 4
+      },
+      {
+        "name": "Jousting",
+        "level": 4
+      },
+      {
+        "name": "Ninja skills",
+        "level": 5
+      },
+      {
+        "name": "Military tactics",
+        "level": 5
+      },
+      {
+        "name": "Diplomacy",
+        "level": 5
+      },
+      {
+        "name": "Siege weaponry",
+        "level": 5
+      },
+      {
+        "name": "I Am The Night",
+        "level": 6
+      }
+    ],
+
+    "crafting": [
+      {
+        "name": "Culinary Techniques",
+        "level": 1
+      },
+      {
+        "name": "Basic Sewing Techniques",
+        "level": 1
+      },
+      {
+        "name": "Basic Blacksmithing Techniques",
+        "level": 1
+      },
+      {
+        "name": "Knife Skills",
+        "level": 1
+      },
+      {
+        "name": "Basic Carpentry Skills",
+        "level": 1
+      },
+      {
+        "name": "Understanding Ingredients",
+        "level": 1
+      },
+      {
+        "name": "Understanding Wood",
+        "level": 1
+      },
+      {
+        "name": "Understanding Metals",
+        "level": 1
+      },
+      {
+        "name": "Understanding Fabrics",
+        "level": 1
+      },
+      {
+        "name": "Flower arranging",
+        "level": 1
+      },
+      {
+        "name": "Pastry Dough",
+        "level": 2
+      },
+      {
+        "name": "Anvil Use",
+        "level": 2
+      },
+      {
+        "name": "Blueprint Reading",
+        "level": 2
+      },
+      {
+        "name": "Mathematics",
+        "level": 2
+      },
+      {
+        "name": "Advanced Carpentry Skills",
+        "level": 2
+      },
+      {
+        "name": "Culinary Arts",
+        "level": 2
+      },
+      {
+        "name": "Working with heat",
+        "level": 2
+      },
+      {
+        "name": "Metal Identification",
+        "level": 2
+      },
+      {
+        "name": "Garment Construction",
+        "level": 2
+      },
+      {
+        "name": "Embroidery",
+        "level": 2
+      },
+      {
+        "name": "Knitting",
+        "level": 2
+      },
+      {
+        "name": "Candle making",
+        "level": 2
+      },
+      {
+        "name": "Pottery",
+        "level": 2
+      },
+      {
+        "name": "Leather working",
+        "level": 2
+      },
+      {
+        "name": "Herb gardening",
+        "level": 2
+      },
+      {
+        "name": "Tapestry making",
+        "level": 2
+      },
+      {
+        "name": "Wood carving",
+        "level": 2
+      },
+      {
+        "name": "Mining",
+        "level": 2
+      },
+      {
+        "name": "Milling and Mashing",
+        "level": 2
+      },
+      {
+        "name": "Chemisty",
+        "level": 3
+      },
+      {
+        "name": "Craftsmanship",
+        "level": 3
+      },
+      {
+        "name": "Bread Making",
+        "level": 3
+      },
+      {
+        "name": "Safety Practices",
+        "level": 3
+      },
+      {
+        "name": "Time Management",
+        "level": 3
+      },
+      {
+        "name": "Fashion studies",
+        "level": 3
+      },
+      {
+        "name": "Menu Planning",
+        "level": 3
+      },
+      {
+        "name": "Stress Management",
+        "level": 3
+      },
+      {
+        "name": "History and Crafting Tradition",
+        "level": 3
+      },
+      {
+        "name": "Welding and Joinery",
+        "level": 3
+      },
+      {
+        "name": "Tool Making",
+        "level": 3
+      },
+      {
+        "name": "Sword sharpening",
+        "level": 3
+      },
+      {
+        "name": "Weaving",
+        "level": 3
+      },
+      {
+        "name": "Bee keeping",
+        "level": 3
+      },
+      {
+        "name": "Horticulture",
+        "level": 3
+      },
+      {
+        "name": "Precious metal mining",
+        "level": 3
+      },
+      {
+        "name": "Wine making",
+        "level": 3
+      },
+      {
+        "name": "Brewing",
+        "level": 3
+      },
+      {
+        "name": "Crafting armour",
+        "level": 4
+      },
+      {
+        "name": "Jewelry making",
+        "level": 4
+      },
+      {
+        "name": "Coat of arms design",
+        "level": 4
+      },
+      {
+        "name": "Cake Decorating",
+        "level": 4
+      },
+      {
+        "name": "Palate Development",
+        "level": 4
+      },
+      {
+        "name": "Weapon forging",
+        "level": 4
+      },
+      {
+        "name": "Siege tower construction",
+        "level": 4
+      },
+      {
+        "name": "Business Skills",
+        "level": 4
+      },
+      {
+        "name": "Bridge construction",
+        "level": 4
+      },
+      {
+        "name": "Landscape gardening",
+        "level": 4
+      },
+      {
+        "name": "Magical metal mining",
+        "level": 4
+      },
+      {
+        "name": "Brewing rare ingredients",
+        "level": 4
+      },
+      {
+        "name": "Banquet management",
+        "level": 5
+      },
+      {
+        "name": "Castle construction",
+        "level": 5
+      },
+      {
+        "name": "Magical weapon forging",
+        "level": 6
+      }
+    ],
+
+    "animals": [
+      {
+        "name": "Agricultural Education",
+        "level": 1
+      },
+      {
+        "name": "Animal Husbandry",
+        "level": 1
+      },
+      {
+        "name": "Veterinary School",
+        "level": 1
+      },
+      {
+        "name": "Beasts of the world",
+        "level": 1
+      },
+      {
+        "name": "Horse riding",
+        "level": 1
+      },
+      {
+        "name": "Magical Creatures",
+        "level": 1
+      },
+      {
+        "name": "Meditation",
+        "level": 1
+      },
+      {
+        "name": "Breed Knowledge",
+        "level": 2
+      },
+      {
+        "name": "Flock Management",
+        "level": 2
+      },
+      {
+        "name": "Record Keeping",
+        "level": 2
+      },
+      {
+        "name": "Livestock Care",
+        "level": 2
+      },
+      {
+        "name": "Animal Behavior",
+        "level": 2
+      },
+      {
+        "name": "Monster Anatomy and Physiology",
+        "level": 2
+      },
+      {
+        "name": "Fishing",
+        "level": 2
+      },
+      {
+        "name": "Monster history",
+        "level": 2
+      },
+      {
+        "name": "Butchery",
+        "level": 2
+      },
+      {
+        "name": "Bird taming",
+        "level": 2
+      },
+      {
+        "name": "Crop Management",
+        "level": 2
+      },
+      {
+        "name": "Pasture Management",
+        "level": 3
+      },
+      {
+        "name": "Planting and Harvesting",
+        "level": 3
+      },
+      {
+        "name": "Soil Science",
+        "level": 3
+      },
+      {
+        "name": "Livestock Anatomy and Physiology",
+        "level": 3
+      },
+      {
+        "name": "Advanced horse riding",
+        "level": 3
+      },
+      {
+        "name": "Animal handling",
+        "level": 3
+      },
+      {
+        "name": "Monster Diagnostic Techniques",
+        "level": 3
+      },
+      {
+        "name": "Large and Small Animal Medicine",
+        "level": 3
+      },
+      {
+        "name": "Wool Handling",
+        "level": 3
+      },
+      {
+        "name": "Lambing and Reproduction",
+        "level": 4
+      },
+      {
+        "name": "Crop Rotation and Planning",
+        "level": 4
+      },
+      {
+        "name": "Warhorse riding",
+        "level": 4
+      },
+      {
+        "name": "Surgery Skills",
+        "level": 4
+      },
+      {
+        "name": "Falconry",
+        "level": 4
+      },
+      {
+        "name": "Monster Medicine",
+        "level": 4
+      },
+      {
+        "name": "Monster breeding",
+        "level": 5
+      },
+      {
+        "name": "Warhorse breeding",
+        "level": 5
+      },
+      {
+        "name": "Magical Medicine",
+        "level": 5
+      },
+      {
+        "name": "Dragon taming",
+        "level": 6
+      }
+    ],
+
+    "magic": [
+      {
+        "name": "Incantations",
+        "level": 1
+      },
+      {
+        "name": "The Dark Arts",
+        "level": 1
+      },
+      {
+        "name": "Theology and Doctrine",
+        "level": 1
+      },
+      {
+        "name": "Rituals and Worship Practices",
+        "level": 1
+      },
+      {
+        "name": "History of Magic",
+        "level": 1
+      },
+      {
+        "name": "Warding and Protection",
+        "level": 1
+      },
+      {
+        "name": "Astrology",
+        "level": 1
+      },
+      {
+        "name": "Chess",
+        "level": 1
+      },
+      {
+        "name": "History of Masan",
+        "level": 1
+      },
+      {
+        "name": "Arcane Symbols and Runes",
+        "level": 2
+      },
+      {
+        "name": "Religious History",
+        "level": 2
+      },
+      {
+        "name": "Clerical Duties",
+        "level": 2
+      },
+      {
+        "name": "Artifacts and Relics",
+        "level": 2
+      },
+      {
+        "name": "Meditation",
+        "level": 2
+      },
+      {
+        "name": "Gods of Zahil",
+        "level": 2
+      },
+      {
+        "name": "Magical Incantations",
+        "level": 3
+      },
+      {
+        "name": "Alchemy",
+        "level": 3
+      },
+      {
+        "name": "Magical Elements and Systems",
+        "level": 3
+      },
+      {
+        "name": "Ethics and Morality",
+        "level": 3
+      },
+      {
+        "name": "Ethereal Realms",
+        "level": 3
+      },
+      {
+        "name": "Spellcasting",
+        "level": 4
+      },
+      {
+        "name": "Planar Travel",
+        "level": 4
+      },
+      {
+        "name": "Ceremonial Skills",
+        "level": 4
+      },
+      {
+        "name": "Battle Magic",
+        "level": 5
+      },
+      {
+        "name": "Ordination",
+        "level": 5
+      }
+    ],
+
+    "demonology": [
+      {
+        "name": "Basic Demonology",
+        "level": 1
+      },
+      {
+        "name": "Protection Against Demons",
+        "level": 1
+      },
+      {
+        "name": "Pentagrams and Circles of Protection",
+        "level": 2
+      },
+      {
+        "name": "Knowledge of Infernal Realms",
+        "level": 2
+      },
+      {
+        "name": "Summoning Rituals",
+        "level": 3
+      },
+      {
+        "name": "Sacrificial Rites",
+        "level": 3
+      },
+      {
+        "name": "Demonic Bargaining",
+        "level": 4
+      },
+      {
+        "name": "Knowledge of Forbidden Texts  ",
+        "level": 4
+      },
+      {
+        "name": "Summoning Demons",
+        "level": 6
+      }
+    ],
+
+    "necromancy": [
+      {
+        "name": "Summoning and Binding Spirits",
+        "level": 1
+      },
+      {
+        "name": "Cemetery Lore",
+        "level": 1
+      },
+      {
+        "name": "Ritual Sacrifices",
+        "level": 2
+      },
+      {
+        "name": "Graveyard Arts",
+        "level": 2
+      },
+      {
+        "name": "Curses and Hexes",
+        "level": 3
+      },
+      {
+        "name": "Preservation Techniques",
+        "level": 3
+      },
+      {
+        "name": "Divination Through Death",
+        "level": 4
+      },
+      {
+        "name": "Death Magic",
+        "level": 4
+      },
+      {
+        "name": "Raise the Dead",
+        "level": 6
+      }
+    ]
+}

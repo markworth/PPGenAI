@@ -1,0 +1,46 @@
+Intros:
+{ taken > 1 and random >= 0 and random <= 100:
+{ shuffle:
+ - Ah, my little artists, gathered around like sparrows at dawn! Today, we shall breathe life onto parchment, capturing the very essence of our souls. Let's paint wonders unseen!
+
+ - Welcome, aspiring geniuses. Today, we embark on an exalted journey through the realm of portraiture. You are guided by none other than I, the master of capturing visages. Prepare to be enlightened!
+
+ - Dear students, portraiture is more than mere lines and colors. It's the journey into the depth of a person's spirit. With each stroke, find the soul behind the face.
+
+ - Good day, students. Today we will explore the art of portraiture. Focus on proportions and capturing the likeness. Collect your brushes and let's begin with a quick sketch.
+
+ - Ah, !name!, lovely to see you again. Ready to create more masterpieces today?
+
+ - Absolutely!
+ - Today, we build on capturing emotions. Let’s explore the depth of expression with our brush.
+
+}
+}
+firstClass:
+{ taken == 1 and random >= 0 and random <= 100:
+ - Ah, a fresh face in our midst! Take a seat, and ready yourself to uncover the timeless art of portraiture. Today, you'll learn to see beyond the surface.
+
+}
+}
+{ taken == 1 and random >= 0 and random <= 100:
+
+# live2dposition: left
+!name!, welcome! We'll start with the basics of portraiture. Find an expression that speaks to you and capture it.
+# princess: right
+I’m excited to try!
+
+}
+{ progress > 70 and random >= 0 and random <= 100:
+
+# princess: right
+Thank you! I will.
+# princess: off
+# live2dposition: centre
+Remember, it's the small details that bring a portrait to life.
+
+{ progress > 70 and random >= 0 and random <= 100:
+{ shuffle:
+ - !name!, you're becoming quite the artist. Today, focus on subtle details, the twinkle in the eye or a barely-there smile.
+
+}
+}

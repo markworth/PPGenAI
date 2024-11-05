@@ -1,0 +1,116 @@
+# layout: Dialogue
+# video: video/PaintingExhibition
+
+=== scratchpad ===
+Throughout the course of this class, we will delve into a wide range of still life painting styles, from the classical to the contemporary, and explore the myriad ways in which artists have approached this enduringly popular genre.
+
+Your debts remain unpaid.
+You have yet to satisfy your financial obligations.
+You have failed to discharge your debt.
+Your coin is still owed.
+You have not honored your promise to pay.
+You didn't cover the expense of your class.
+Alas, the required sum has not been paid.
+It appears that the payment has not been made
+I'm afraid the payment remains outstanding.
+
+{ taken == 1: 
+As we embark on this journey of artistic exploration, we will delve into the secrets ...
+of composing a still life, choosing a color palette, and rendering form and texture with a variety of brushstrokes and techniques.
+}
+
+-> END
+
+=== intro ===
+{ taken == 1: 
+# live2dposition: left
+Welcome to my art studio
+# princess: right
+I wonder if I have any talent?
+# princess: off
+# live2dposition: centre
+Let's find out my dear!
+}
+{ taken > 1:
+Welcome back to class
+}
+ -> END
+
+=== outro ===
+{ completed == 0 and days > 0: It's a shame you couldn't finish the week.}
+{ completed == 0 and days == 0: What a complete waste of everyone's time.}
+{ totalsuccess == 1: Well done! }
+{ totalfailure == 1: Oh dear! }
+{ failure == 1: Never mind }
+{ success == 1: Nice }
+{ progress >= 100: I'm not sure there's much more I can teach you.}
+
+Success: {success_this_week} Failure: {failures_this_week} Stat increase: {totalstatincrease} Img: {inc_img} Int: {inc_int} Con: {inc_con}
+-> END
+
+=== notpaid ===
+{ days == 0: Why turn up when you can't pay for your lesson? }
+{ days > 0: I look forward to the day when you can join us and share your talents with the group. }
+-> END
+
+=== config ===
+Name: Portraits
+Group: arts
+Buffs: IMG, INT
+Nerfs: CON
+Level: 1
+Stress: Very Low
+Character: artguy
+Success: chance(100)
+
+# section: available
+Rule: Year >= 1
+
+# section: daily
+Rule: Stress > 10
+Success: chance(0)
+
+# section: start
+Cost: 4
+Path: intro
+
+# section: success
+Stat: IMG + [10] 0 [75] 1 [15] 2
+Stat: INT + [10] 0 [75] 1 [15] 2
+Stat: CON - [75] 0 [25] 1
+Stat: Stress + [95] 1 [5] 2
+Progress: [10] 15 [20] 13 [70] 12
+
+# section: failure
+Progress: [70] 10 [30] 11
+Stat: Stress + [50] 1 [50] 2
+
+# section: end
+Path: outro
+
+# section: scenario_checkers
+Name: checkers
+Rule: taken < 5
+Stat: INT + 1
+LocationImage: DayOutcomes/Painting/house
+ActionImage: DayOutcomes/Painting/checkers
+ActionText: You play checkers ...
+SuccessText: you let him win
+SuccessImage: DayOutcomes/Painting/checkers_success
+FailureText: he does not enjoy losing
+FailureImage: DayOutcomes/Painting/checkers_failure
+Rarity: common
+
+# section: scenario_checkers_sickofit
+Name: checkers
+Rule: taken >= 5
+LocationImage: DayOutcomes/Painting/house
+ActionImage: DayOutcomes/Painting/checkers
+ActionText: You play checkers ...
+SuccessText: you let him win
+SuccessImage: DayOutcomes/Painting/checkers_success
+FailureText: he is sick of checkers
+FailureImage: DayOutcomes/Painting/checkers_failure
+Rarity: common
+
+ -> END
